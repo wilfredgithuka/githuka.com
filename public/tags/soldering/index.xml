@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soldering on Wilfred&#39;s Online Notebook</title>
-    <link>https://example.com/tags/soldering/</link>
+    <link>https://githuka.com/tags/soldering/</link>
     <description>Recent content in soldering on Wilfred&#39;s Online Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Jul 2019 20:07:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/soldering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2019 20:07:26 +0000</lastBuildDate><atom:link href="https://githuka.com/tags/soldering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ExGNU Radio Project Update</title>
-      <link>https://example.com/posts/exgnu_radio/</link>
+      <link>https://githuka.com/posts/exgnu_radio/</link>
       <pubDate>Mon, 08 Jul 2019 20:07:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/exgnu_radio/</guid>
+      <guid>https://githuka.com/posts/exgnu_radio/</guid>
       <description>The ExGNU Radio project is a skilling-up practical project to improve my soldering skills. Its a simple to complex kind of project which starts out simple and ends up being more complex as I dive deeper.
 For sometime I have had these cheap Chinese-made FM &amp;amp; Tape deck receivers which also happens to have an Memory-Card reader section. The integration of these major sections is so poor that tt keeps breaking down.</description>
     </item>
     
     <item>
       <title>SMPS Basic Principle Of Operation</title>
-      <link>https://example.com/posts/smps_basic_principal_of_operation/</link>
+      <link>https://githuka.com/posts/smps_basic_principal_of_operation/</link>
       <pubDate>Tue, 28 May 2019 08:58:44 +0000</pubDate>
       
-      <guid>https://example.com/posts/smps_basic_principal_of_operation/</guid>
+      <guid>https://githuka.com/posts/smps_basic_principal_of_operation/</guid>
       <description>A Switched Mode Power supply is one of the most efficient ways to step down AC to DC which can be used by domestic appliances like mobile chargers, laptops and pcs. Its an advancement from liner power supplies and this technology has seen wall chargers get smaller and more efficient.
 In the most simple definition, an smps is a type of power supply that uses semi-conductor devices&#39; switching techniques rather than the standard linear methods to provide a stable reliable and safe output voltage.</description>
     </item>
