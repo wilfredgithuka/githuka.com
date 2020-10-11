@@ -6,7 +6,8 @@ paginate = 15
 
 [params]
   author = "Wilfred Githuka"
-  description = "Please write good documentation"
+  description = "Lets Write"
+  avatar = "https://www.githuka.com/images/me.png"
   [[params.social]]
     name = "github"
     url = "https://github.com/wilfredgithuka"
