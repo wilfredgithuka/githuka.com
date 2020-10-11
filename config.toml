@@ -1,4 +1,4 @@
-baseURL = "https://githuka.com"
+baseURL = "https://www.githuka.com"
 title = "Wilfred's Online Notebook"
 themesDir = "/home/wilfred/githuka.com/themes/"
 theme = "m10c"
