@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>smps on Wilfred&#39;s Online Notebook</title>
-    <link>https://githuka.com/tags/smps/</link>
+    <link>https://www.githuka.com/tags/smps/</link>
     <description>Recent content in smps on Wilfred&#39;s Online Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Jun 2019 08:28:53 +0000</lastBuildDate><atom:link href="https://githuka.com/tags/smps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2019 08:28:53 +0000</lastBuildDate><atom:link href="https://www.githuka.com/tags/smps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Switch Mode Power Supplies Online Resources</title>
-      <link>https://githuka.com/posts/smps_resources/</link>
+      <link>https://www.githuka.com/posts/smps_resources/</link>
       <pubDate>Mon, 24 Jun 2019 08:28:53 +0000</pubDate>
       
-      <guid>https://githuka.com/posts/smps_resources/</guid>
+      <guid>https://www.githuka.com/posts/smps_resources/</guid>
       <description>This is a curated list of internet resorces that I think are really useful when it comes to matters relating Switch Mode Power Supplies and low level electronics.
 Websites  DiodeGoneWild - Youtube Channel TroubleShooting and Reparing SMPS Ken Shirrif&amp;rsquo;s Blog TubeTimeUS EvilMadScientist  Books &amp;amp; Manuals  TroubleShooting and Reparing SMPS Switchmode Power Supply Handbook  Back to work :-)</description>
     </item>
     
     <item>
       <title>SMPS Basic Principle Of Operation</title>
-      <link>https://githuka.com/posts/smps_basic_principal_of_operation/</link>
+      <link>https://www.githuka.com/posts/smps_basic_principal_of_operation/</link>
       <pubDate>Tue, 28 May 2019 08:58:44 +0000</pubDate>
       
-      <guid>https://githuka.com/posts/smps_basic_principal_of_operation/</guid>
+      <guid>https://www.githuka.com/posts/smps_basic_principal_of_operation/</guid>
       <description>A Switched Mode Power supply is one of the most efficient ways to step down AC to DC which can be used by domestic appliances like mobile chargers, laptops and pcs. Its an advancement from liner power supplies and this technology has seen wall chargers get smaller and more efficient.
 In the most simple definition, an smps is a type of power supply that uses semi-conductor devices&#39; switching techniques rather than the standard linear methods to provide a stable reliable and safe output voltage.</description>
     </item>

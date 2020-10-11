@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engineering on Wilfred&#39;s Online Notebook</title>
-    <link>https://githuka.com/categories/engineering/</link>
+    <link>https://www.githuka.com/categories/engineering/</link>
     <description>Recent content in Engineering on Wilfred&#39;s Online Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Jan 2020 09:51:27 +0000</lastBuildDate><atom:link href="https://githuka.com/categories/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2020 09:51:27 +0000</lastBuildDate><atom:link href="https://www.githuka.com/categories/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ngong GV 115.9 VOR DME &amp; Geocaching</title>
-      <link>https://githuka.com/posts/ngong-gv-115.9-geocache/</link>
+      <link>https://www.githuka.com/posts/ngong-gv-115.9-geocache/</link>
       <pubDate>Mon, 20 Jan 2020 09:51:27 +0000</pubDate>
       
-      <guid>https://githuka.com/posts/ngong-gv-115.9-geocache/</guid>
+      <guid>https://www.githuka.com/posts/ngong-gv-115.9-geocache/</guid>
       <description>As I read more about Armateur Radio, am beginning to be more aware of major wireless transmission sites around me. One of such is the Ngong GV 115.9 VOR DME.
 This is a huge circular beacon located on your way up to Ngong Hills just as you descend the second hill past the wind turbines. This equipment is is fenced and its very important for pilots as they navigate towards JKIA Airport.</description>
     </item>
     
     <item>
       <title>Growing Plants With Artificial Light 2</title>
-      <link>https://githuka.com/posts/growing-plants/</link>
+      <link>https://www.githuka.com/posts/growing-plants/</link>
       <pubDate>Sat, 01 Apr 2017 17:18:28 +0000</pubDate>
       
-      <guid>https://githuka.com/posts/growing-plants/</guid>
+      <guid>https://www.githuka.com/posts/growing-plants/</guid>
       <description>Purpose AND Objectives The main propose of this experiment is to learn more about how plants can survive and grow to maturity without being exposed to sunlight. This experiment is a continuation of my earler Experiment - Growing With Light. This time on a bigger scale and with more accurate data and equipment.The following are some of the objectives for this project:
  To lean more about how plants convert light during photosynthesis To learn about different types of light which are used in plant germination &amp;amp; growth To learn about Automation and Data Mining To increase my programming skills in small embedded hardware.</description>
     </item>
     
     <item>
       <title>Growing Plants With Artificial Light Experiment</title>
-      <link>https://githuka.com/posts/growing-plants-with-articial-light/</link>
+      <link>https://www.githuka.com/posts/growing-plants-with-articial-light/</link>
       <pubDate>Thu, 25 Aug 2016 08:32:22 +0000</pubDate>
       
-      <guid>https://githuka.com/posts/growing-plants-with-articial-light/</guid>
+      <guid>https://www.githuka.com/posts/growing-plants-with-articial-light/</guid>
       <description>Introduction The intensity of light radiating from a point source that reaches a surface is inversely proportional to the square of the surface&amp;rsquo;s distance from the source - Inverse square law. This simply means that if an object is twice as far away it receives only a quarter of the light.
 This is the basis of this experiment. For a long time we have relied on the sun as the source of food, but with recent scientific studies, man has stared to grow plants indoors with the help of artificial light from bulbs.</description>
     </item>
