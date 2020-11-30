@@ -5,7 +5,58 @@
     <link>https://www.githuka.com/posts/</link>
     <description>Recent content in Posts on Wilfred&#39;s Online Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Sep 2020 13:51:37 +0300</lastBuildDate><atom:link href="https://www.githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Nov 2020 08:47:51 +0300</lastBuildDate><atom:link href="https://www.githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8bit Home - Building an 8-bit computer from scratch</title>
+      <link>https://www.githuka.com/posts/8bit-home/</link>
+      <pubDate>Sun, 29 Nov 2020 08:47:51 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/8bit-home/</guid>
+      <description>Building a computer from scratch is a crazy idea, given the small details one has to be careful with. Also the time investment for debugging is immense.
+But the learning content is incredible.
+This is the reason why am starting this long journey of building an 8bit computer from scratch. Am building mine from TTL chips using the kits provided by Ben Eater
+What is an 8bit Computer? In computing a bit is 0 and 1, therefore the following occurs:</description>
+    </item>
+    
+    <item>
+      <title>Organaizing Contacts with Python</title>
+      <link>https://www.githuka.com/posts/python_contacts/</link>
+      <pubDate>Tue, 13 Oct 2020 20:59:16 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/python_contacts/</guid>
+      <description>At work I come accross many people&amp;rsquo;s contacts mostly of which I have to store in my phone, create groups for further communication etc. When I am dealing with more than 200 contacts per week, things can get messy and tedious that is why I have found a nice way to inject some Python into my contacts workflow.
+The workflow is as follows:
+ Receive contact info in a word document.</description>
+    </item>
+    
+    <item>
+      <title>中文版的电脑软件 Linux Chinese Software</title>
+      <link>https://www.githuka.com/posts/chinese_toolbox/</link>
+      <pubDate>Tue, 13 Oct 2020 10:39:04 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/chinese_toolbox/</guid>
+      <description>The following is a list of applictions that I use in a Chinese environment which I think might be useful to my readers.
+Document Processing WPS Office Linux yay -S wps-office PDF  MuPDF is Very fast EPUB, FictionBook, PDF, XPS and Comicbook viewer written in portable C. Features CJK font support. Okular — Universal document viewer for KDE. Supports CHM, Comicbook, DjVu, DVI, EPUB, FictionBook, Mobipocket, ODT, PDF, Plucker, PostScript, TIFF and XPS.</description>
+    </item>
+    
+    <item>
+      <title>Noteonomy Project Index</title>
+      <link>https://www.githuka.com/posts/noteonomy/</link>
+      <pubDate>Mon, 12 Oct 2020 13:46:48 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/noteonomy/</guid>
+      <description>Introduction The Noteonomy Project is a longterm learning process about the intereting word of autonomous vehicle systems. In this project am using a real vehicle - Nissan Note E11 2008 as I start adding deices in it towards converting it into a connected car. The Nissan Note E11 2008 Model is a 5 door mini MPV hatchback manufactured by Nissan Japan. A connected car is a term use to describe a car that can interface with the internet for exchange of information.</description>
+    </item>
+    
+    <item>
+      <title>Curated Reading Content</title>
+      <link>https://www.githuka.com/posts/reading/</link>
+      <pubDate>Mon, 12 Oct 2020 12:44:18 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/reading/</guid>
+      <description>SDR - Software Defined Radio  pySRD:A Guide to SRD and DSP using Python  Digital Signal Processing using Python</description>
+    </item>
+    
     <item>
       <title>12V DC Power</title>
       <link>https://www.githuka.com/posts/note_power/</link>
@@ -121,18 +172,6 @@ Components  1X NE555 Timer 1X 1microfarad Capacitor 1x 0.</description>
       <guid>https://www.githuka.com/posts/ngong-gv-115.9-geocache/</guid>
       <description>As I read more about Armateur Radio, am beginning to be more aware of major wireless transmission sites around me. One of such is the Ngong GV 115.9 VOR DME.
 This is a huge circular beacon located on your way up to Ngong Hills just as you descend the second hill past the wind turbines. This equipment is is fenced and its very important for pilots as they navigate towards JKIA Airport.</description>
-    </item>
-    
-    <item>
-      <title>8bit Home - Building an 8-bit computer from scratch</title>
-      <link>https://www.githuka.com/posts/8bit-home/</link>
-      <pubDate>Thu, 16 Jan 2020 08:47:51 +0300</pubDate>
-      
-      <guid>https://www.githuka.com/posts/8bit-home/</guid>
-      <description>Building a computer from scratch is a crazy idea, given the small details one has to be careful with. Also the time investment for debugging is immense.
-But the learning content is incredible.
-This is the reason why am starting this long journey of building an 8bit computer from scratch. Am building mine from TTL chips using the kits provided by Ben Easter
-What is an 8bit Computer? In computing a bit is 0 and 1, therefore the following occurs:</description>
     </item>
     
     <item>

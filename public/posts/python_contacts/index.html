@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Organaizing Contacts with Python // Wilfred&#39;s Online Notebook</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.75.1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Wilfred Githuka" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://www.githuka.com/css/main.min.88e7083eff65effb7485b6e6f38d10afbec25093a6fac42d734ce9024d3defbd.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Organaizing Contacts with Python"/>
+<meta name="twitter:description" content="At work I come accross many people&rsquo;s contacts mostly of which I have to store in my phone, create groups for further communication etc. When I am dealing with more than 200 contacts per week, things can get messy and tedious that is why I have found a nice way to inject some Python into my contacts workflow.
+The workflow is as follows:
+ Receive contact info in a word document."/>
+
+    <meta property="og:title" content="Organaizing Contacts with Python" />
+<meta property="og:description" content="At work I come accross many people&rsquo;s contacts mostly of which I have to store in my phone, create groups for further communication etc. When I am dealing with more than 200 contacts per week, things can get messy and tedious that is why I have found a nice way to inject some Python into my contacts workflow.
+The workflow is as follows:
+ Receive contact info in a word document." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.githuka.com/posts/python_contacts/" />
+<meta property="article:published_time" content="2020-10-13T20:59:16+03:00" />
+<meta property="article:modified_time" content="2020-10-13T20:59:16+03:00" />
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://www.githuka.com"><img class="app-header-avatar" src="/images/me.png" alt="Wilfred Githuka" /></a>
+      <h1>Wilfred&#39;s Online Notebook</h1>
+      <p>Lets Write</p>
+      <div class="app-header-social">
+        
+          <a target="_blank" href="https://github.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg></a>
+        
+          <a target="_blank" href="https://twitter.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <title>twitter</title>
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg></a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Organaizing Contacts with Python</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Oct 13, 2020
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          2 min read
+        </div></div>
+    </header>
+    <div class="post-content">
+      <p>At work I come accross many people&rsquo;s contacts mostly of which I have to
+store in my phone, create groups for further communication etc. When I am
+dealing with more than 200 contacts per week, things can get messy and
+tedious that is why I have found a nice way to inject some Python into
+my contacts workflow.</p>
+<p>The workflow is as follows:</p>
+<ul>
+<li>Receive contact info in a word document.</li>
+<li>Lift the contact data into Ms Excel and save it as a csv file</li>
+<li>Convert the csv int a vcf format which handled contact info</li>
+<li>Merge all the many vcf files into one handy file containing many contacts</li>
+<li>Share with team members who just import into their contacts list.</li>
+</ul>
+<h2 id="tools">Tools</h2>
+<ul>
+<li>Python</li>
+<li><a href="https://pypi.org/project/csv2vcard/">csv2vcard 0.2.2</a></li>
+</ul>
+<h2 id="vcf-vcard-format-introduction">VCF vCard Format Introduction</h2>
+<p>vCard, also known as VCF (Virtual Contact File), is a file format standard for
+electronic business cards. vCards are often attached to e-mail messages but can be
+exchanged in other ways, such as Multimedia Messaging Service (MMS), on the World Wide Web,
+instant messaging or through QR code. They can contain name and address information,
+telephone numbers, e-mail addresses, URLs, logos, photographs, and audio clips.</p>
+<h2 id="csv-and-vcf">CSV and VCF</h2>
+<p>After importing the contact into into Excel, create the following columns to handle
+the contact info:</p>
+<ul>
+<li>last_name</li>
+<li>first_name</li>
+<li>org</li>
+<li>title</li>
+<li>phone</li>
+<li>email</li>
+<li>website</li>
+<li>street</li>
+<li>city</li>
+<li>p_code</li>
+<li>country</li>
+</ul>
+<p>These colums are quite important since python&rsquo;s csv2vcard requires that they be present in the CSV file.
+Convert the document to a CSV file with the above columns as required. Its okay to have blank columns
+if such data is not available.</p>
+<h2 id="csv2vcard">csv2vcard</h2>
+<p>The operation of csv2vcard is done in a Python environment. So execute Python</p>
+<pre><code>Python
+
+from csv2vcard import csv2vcard
+csv2vcard.csv2vcard('contacts.csv',',')
+</code></pre><p>The code above will create a folder called export with all the many vcards inside it. This is good but we
+want one single vcard, so we are going to use Linux&rsquo;s cat program. Go into the export folder and execute the
+following code:</p>
+<pre><code>cat * &gt;&gt; contacts.vcf
+</code></pre><p>The output shall be one vcf file with all the contacts.</p>
+<p>You can now share the file and/or copy it to your phone and import into your contacts.</p>
+<p>Enjoy :-)</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
