@@ -53,9 +53,10 @@ this method, it way too expensive.
 ## The Project Index
 
  1. Clock Module
-    * [555 Clock Signal Basics](https://githuka.com/post/555/) 
-    * [Monostable](https://githuka.com/post/monostable/)
-    * [Bistable](https://githuka.com/post/bistable)
+    * [555 Clock Signal Basics](https://www.githuka.com/posts/555/) 
+    * [Monostable](https://www.githuka.com/posts/monostable/)
+    * [Bistable](https://www.githuka.com/posts/bistable/)
+    * [Complete Clock Module](https://www.githuka.com/posts/clock/)
  2. Arithmetic Logic Unit
  3. Random Access Memory(RAM) module
  4. Program Counter
