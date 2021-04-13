@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Blender Cloth Napkin Tutorial // Wilfred&#39;s Online Notebook</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.81.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Wilfred Githuka" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://www.githuka.com/css/main.min.88e7083eff65effb7485b6e6f38d10afbec25093a6fac42d734ce9024d3defbd.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Blender Cloth Napkin Tutorial"/>
+<meta name="twitter:description" content="This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&rsquo;s cycles render engine is used during this video. Blender version 2.68a was used for this tutorial. This video shows many techniques that may be helpful to beginners.This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&rsquo;s cycles render engine is used during this video."/>
+
+    <meta property="og:title" content="Blender Cloth Napkin Tutorial" />
+<meta property="og:description" content="This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&rsquo;s cycles render engine is used during this video. Blender version 2.68a was used for this tutorial. This video shows many techniques that may be helpful to beginners.This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&rsquo;s cycles render engine is used during this video." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.githuka.com/posts/blender_cloth_napkin/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-03-14T09:48:30&#43;03:00" />
+<meta property="article:modified_time" content="2021-03-14T09:48:30&#43;03:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://www.githuka.com"><img class="app-header-avatar" src="/images/me.png" alt="Wilfred Githuka" /></a>
+      <h1>Wilfred&#39;s Online Notebook</h1>
+      <p>Lets Write</p>
+      <div class="app-header-social">
+        
+          <a target="_blank" href="https://github.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg></a>
+        
+          <a target="_blank" href="https://twitter.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <title>twitter</title>
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg></a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Blender Cloth Napkin Tutorial</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Mar 14, 2021
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div></div>
+    </header>
+    <div class="post-content">
+      <p>This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup.
+Blender&rsquo;s cycles render engine is used during this video. Blender version 2.68a was used for this tutorial.
+This video shows many techniques that may be helpful to beginners.This Blender video demonstrates how to
+make an image of a cloth napkin draped over a glass cup. Blender&rsquo;s cycles render engine is used during this
+video. Blender version 2.68a was used for this tutorial.</p>
+<p>This video shows many techniques that may be helpful to beginners.</p>
+<p>I will be doing this tutorial with using the keyboard hot keys as possible to eliminate the use of the
+mouse as much as possible.</p>
+<h2 id="genral-hot-keys">Genral Hot Keys</h2>
+<h3 id="change-views">Change Views</h3>
+<ul>
+<li>Left    Ctrl+Num3</li>
+<li>Right   Num3</li>
+<li>Back    Ctrl+Num1</li>
+<li>Front   Num1</li>
+<li>Bottom  Ctrl+Num7</li>
+<li>Up      Num7</li>
+<li>Toggle Selecting/Deselecting Everything  A/Ax2</li>
+<li>Selecting Vertices by drawing a box around them  B</li>
+<li>Delete  X</li>
+<li>Scale S -&gt; Z -&gt; 0</li>
+</ul>
+<h2 id="modelling">Modelling</h2>
+<h3 id="change-rendering-engine-to-cycles-render">Change rendering engine to cycles render</h3>
+<p>Cycles is Blender&rsquo;s physically-based path tracer for production rendering.
+It is designed to provide physically based results out-of-the-box, with artistic control
+and flexible shading nodes for production needs.</p>
+<ul>
+<li>Go to Render Properties Evee &gt; Cycles Render</li>
+</ul>
+<h3 id="delete-cube">Delete Cube</h3>
+<ul>
+<li>X &gt; Enter to Delete</li>
+</ul>
+<h3 id="cup">Cup</h3>
+<ul>
+<li>
+<p>Shitf+A &gt; Mesh &gt; UV Sphere</p>
+</li>
+<li>
+<p>Zoom in and out +/- keys</p>
+</li>
+</ul>
+<h4 id="convert-sphere-to-glass-cup">Convert sphere to glass cup</h4>
+<ul>
+<li>
+<p>Ctrl+Tab  - Change from Object mode to Edit mode</p>
+</li>
+<li>
+<p>Z  - View port shading options &gt; Wireframe.</p>
+</li>
+<li>
+<p>5  - Orthographic projection.</p>
+</li>
+<li>
+<p>Num1 - Front View.</p>
+</li>
+<li>
+<p>A/Ax2 - Select/Deselect everything.</p>
+</li>
+<li>
+<p>B Key to select vertices by drawing a box around them.</p>
+</li>
+<li>
+<p>X to Delete Vertices</p>
+</li>
+<li>
+<p>For the bottom section of the sphere Press B to select vertices, S for scale then Z to
+restrict to Z axis then enter 0 as the value then hit enter.</p>
+</li>
+<li>
+<p>Z &gt; 6 To Change from Wireframe to Solid</p>
+</li>
+<li>
+<p>Ctrl+Tab to return to Edit Mode.</p>
+</li>
+</ul>
+<h4 id="add-thickness-to-cup">Add Thickness to Cup</h4>
+<ul>
+<li>
+<p>Add Solidify Modifier - Thickness 0.07</p>
+</li>
+<li>
+<p>Smooth the surface of cup - Add a Subdivision Surface Modifier - Levels 2, Render 2, Then Object &gt; Shade &gt; Smooth.</p>
+</li>
+<li>
+<p>Add Material and set surface to Glass BSDF</p>
+</li>
+</ul>
+<h3 id="plane">Plane</h3>
+<ul>
+<li>
+<p>Shift+A to Add Plane</p>
+</li>
+<li>
+<p>S to Scale then 5 then Enter Key</p>
+</li>
+<li>
+<p>Num 1 to Switch to Front View</p>
+</li>
+<li>
+<p>G &gt; Z To Move plane to bottom of cup</p>
+</li>
+</ul>
+<h4 id="plane-material">Plane Material</h4>
+<ul>
+<li>
+<p>Material: Diffuse BSDF</p>
+</li>
+<li>
+<p>Color: White</p>
+</li>
+</ul>
+<h3 id="cloth-napkin">Cloth Napkin</h3>
+<ul>
+<li>
+<p>Shift+A to Add Plane</p>
+</li>
+<li>
+<p>S &gt; 5 &gt; Enter</p>
+</li>
+<li>
+<p>Rotate R &gt; Z &gt; 45 &gt; Enter</p>
+</li>
+<li>
+<p>R &gt; X &gt; 70 &gt; Enter</p>
+</li>
+<li>
+<p>Num 3 &gt; G &gt; X Then move</p>
+</li>
+<li>
+<p>Num 3 &gt; G &gt; Z Then move</p>
+</li>
+</ul>
+<h4 id="napkin-material">Napkin Material</h4>
+<ul>
+<li>
+<p>Material Type: Glossy</p>
+</li>
+<li>
+<p>Roughness: 1.00</p>
+</li>
+<li>
+<p>Color: Blue</p>
+</li>
+<li>
+<p>Settings &gt; View Port Color : Blue</p>
+</li>
+<li>
+<p>Ctrl+Tab for Edit Mode</p>
+</li>
+<li>
+<p>A/Ax2 Multiselect</p>
+</li>
+<li>
+<p>Edge &gt; Subdivide &gt; Cuts: 50</p>
+</li>
+<li>
+<p>Ctrl+Tab for Object Mode</p>
+</li>
+</ul>
+<h4 id="napkin-modifiers">Napkin Modifiers</h4>
+<ul>
+<li>
+<p>Add Cloth, Solidify and Subdivision Surface Modifiers</p>
+</li>
+<li>
+<p>For Surface Modifier, View and Render : 2</p>
+</li>
+<li>
+<p>Object &gt; Shade &gt; Smooth</p>
+</li>
+<li>
+<p>Physics &gt; Cloth &gt; Cotton</p>
+</li>
+<li>
+<p>Quality Steps: 10</p>
+</li>
+<li>
+<p>Check Cloth Collision and Self Collision to allow self interaction</p>
+</li>
+<li>
+<p>For Cup and Bottom Plane, click and select collision.</p>
+</li>
+</ul>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

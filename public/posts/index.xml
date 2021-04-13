@@ -5,7 +5,129 @@
     <link>https://www.githuka.com/posts/</link>
     <description>Recent content in Posts on Wilfred&#39;s Online Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Nov 2020 08:47:51 +0300</lastBuildDate><atom:link href="https://www.githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 20:19:56 +0300</lastBuildDate><atom:link href="https://www.githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building A Linux Carputer - Power Sytem</title>
+      <link>https://www.githuka.com/posts/laptop_power/</link>
+      <pubDate>Sat, 10 Apr 2021 20:19:56 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/laptop_power/</guid>
+      <description>Requirements
+ Boot on power connection Have a backup battery Wake up on LAN/WoW Minimum power requirement during running and standby Sleep/Hibernate Mode SSH Server Running Headless operation  Boot Steps  Wake up on LAN/WoW Create a Wifi Network Static IP Address Start SSH Server   Following the above requirements lets build a special purpose car computer.
+Th first thing to do is to ensure that I can connect to it and print out the sytem details (KYD = Know Your Hardware).</description>
+    </item>
+    
+    <item>
+      <title>Thursday 25th March 2021 - Let Me Love You by Mario - English and French Lyrics</title>
+      <link>https://www.githuka.com/posts/gabon20210325/</link>
+      <pubDate>Sat, 27 Mar 2021 22:30:08 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/gabon20210325/</guid>
+      <description>Bojour bonjour
+As a get deeper into my french learning I have decided to look for a French ong which I can learn at my own pace that is not too complex for my level.
+This song below is what I have come accross so far. Its a song by Mario - Let Me Love You which was performed by a youtuber called xxx. His speed is slighlty fast so I hope I can manage.</description>
+    </item>
+    
+    <item>
+      <title>Flashing SONY Xperia M2 Dual</title>
+      <link>https://www.githuka.com/posts/sonyd2302flashtool/</link>
+      <pubDate>Mon, 15 Mar 2021 23:49:27 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/sonyd2302flashtool/</guid>
+      <description>If for anychance you brick your SONY Xperia M2 Dual and you cannot boot it, there are chances that it needs to be flashed clean. This manual will describe the process of a Linux machine.
+Requirements  A good internet connection USB cable Memory Time and Patience  System Preparation First and foremost ensure that your system is updated.
+sudo pacman -Syu Change to root user sudo -i Then add the ruled cd /etc/udev/rules.</description>
+    </item>
+    
+    <item>
+      <title>Wilfred Au Gabon</title>
+      <link>https://www.githuka.com/posts/gabon/</link>
+      <pubDate>Sun, 14 Mar 2021 17:56:08 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/gabon/</guid>
+      <description>This is a log book of my experience in Gabon + pieces of useful info to all who might be planning to travel to Gabon
+About Gabon Gabon [ɡabɔ̃], officially called the Gabonese Republic, République Gabonaise, is a french speaking country Located on the equator, west Africa with an are of approx 270,000 km2. It is bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo on the east and south, and the Gulf of Guinea to the west.</description>
+    </item>
+    
+    <item>
+      <title>Blender Cloth Napkin Tutorial</title>
+      <link>https://www.githuka.com/posts/blender_cloth_napkin/</link>
+      <pubDate>Sun, 14 Mar 2021 09:48:30 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/blender_cloth_napkin/</guid>
+      <description>This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&amp;rsquo;s cycles render engine is used during this video. Blender version 2.68a was used for this tutorial. This video shows many techniques that may be helpful to beginners.This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&amp;rsquo;s cycles render engine is used during this video.</description>
+    </item>
+    
+    <item>
+      <title>In Gabon When It Rains It Pours</title>
+      <link>https://www.githuka.com/posts/gabon20210312/</link>
+      <pubDate>Sat, 13 Mar 2021 07:10:00 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/gabon20210312/</guid>
+      <description>Just as the title reads when it rains here it pours. The rains here are very windy which is a relief to many since temperatures fall by 5 degrees, momentarily cooling the rather hot and humid landscape.
+According to weather-atlas.com - The first month of the spring, March, is a tropical month in Libreville, Gabon, with average temperature ranging between min 25.3°C (77.5°F) and max 30.1°C (86.2°F). With an average high-temperature of 30.</description>
+    </item>
+    
+    <item>
+      <title>Learning Blender To Improve Productivity</title>
+      <link>https://www.githuka.com/posts/blender/</link>
+      <pubDate>Wed, 10 Mar 2021 23:24:32 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/blender/</guid>
+      <description>Blender is awesome :-)
+What is Blender? Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.</description>
+    </item>
+    
+    <item>
+      <title>Shpping Container House In Libreville - Wednesday 10th March 2021</title>
+      <link>https://www.githuka.com/posts/gabon20210310/</link>
+      <pubDate>Wed, 10 Mar 2021 22:42:05 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/gabon20210310/</guid>
+      <description>Today was another opportunity to safely leave the site and tour the Libreville while buying some supplies.
+During the many hours we spend moving around, it was clear that the Gabonese road users do not like their roads marked. This was in contrast to Kenya where at least most newly paved roads have some form of lane markings. Here its visible non-existent.
+Today I can brag I got a better picture of the ocean than the one I took last week.</description>
+    </item>
+    
+    <item>
+      <title>The Pains of Running</title>
+      <link>https://www.githuka.com/posts/gabon20210308/</link>
+      <pubDate>Mon, 08 Mar 2021 23:27:36 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/gabon20210308/</guid>
+      <description>Ever since I came to Gabon I started a morning workout plan of running 5 laps around the running track in the new stadium. During last week I was not strict but this week I plan on running 5 laps in the mornings which will total out to 7x5=35 laps this week.
+It takes quite alot of muscle to run and because this is something that my musles are not used to, the pain after the run can be somewhat hell.</description>
+    </item>
+    
+    <item>
+      <title>The Sights of Gabon - Friday 5th March 2021</title>
+      <link>https://www.githuka.com/posts/gabon20210305/</link>
+      <pubDate>Sat, 06 Mar 2021 22:48:35 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/gabon20210305/</guid>
+      <description>Today I finally had the chance to leave the Special Economic Zone and head out for a drive to buy some equipment and materials. As usual I donned an N95 mask and very cautious in maintaining social distance in all my interractions. From what I saw today, Gabonese people and very kind and curtious. Despite my very very basic knowledge of French, I managed to answer greetings and smile in return.</description>
+    </item>
+    
+    <item>
+      <title>Complete Computer Clock</title>
+      <link>https://www.githuka.com/posts/clock/</link>
+      <pubDate>Wed, 16 Dec 2020 20:27:54 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/clock/</guid>
+      <description>This is the final set of components that will make up the complete computer clock. This last section will add 3 AND gates and an OR gate together with 2 ineverters and a HALT signal to halt the clock when needed to.
+Components  74LS04 Hex Inverters 74LS08 AND Gates 74LS32 OR Gates  Connection The main objective behind this final step in building our clock is to combine the previous: Astable pulse, Manual Pulse and Select pulse into one unified system.</description>
+    </item>
+    
+    <item>
+      <title>The Githuka Noteonomy Project - Index</title>
+      <link>https://www.githuka.com/posts/noteonomy/</link>
+      <pubDate>Mon, 07 Dec 2020 13:46:48 +0300</pubDate>
+      
+      <guid>https://www.githuka.com/posts/noteonomy/</guid>
+      <description>Introduction A self-driving car, aka anautonomous vehicle, connected and autonomous vehicle (CAV), full self-driving car or driverless car, or robo-car or robotic car, is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+Manufactusers hav been announcing the arrival of autonomous vehicles since March 2017 with leading companies prediciting that 2020 shall be the golden year for autonomous vehicles. Much of this was projections but not actual deliverables due to challenges like legal provisions which would hinder this develpment.</description>
+    </item>
+    
     <item>
       <title>8bit Home - Building an 8-bit computer from scratch</title>
       <link>https://www.githuka.com/posts/8bit-home/</link>
@@ -37,15 +159,6 @@ The workflow is as follows:
       <guid>https://www.githuka.com/posts/chinese_toolbox/</guid>
       <description>The following is a list of applictions that I use in a Chinese environment which I think might be useful to my readers.
 Document Processing WPS Office Linux yay -S wps-office PDF  MuPDF is Very fast EPUB, FictionBook, PDF, XPS and Comicbook viewer written in portable C. Features CJK font support. Okular — Universal document viewer for KDE. Supports CHM, Comicbook, DjVu, DVI, EPUB, FictionBook, Mobipocket, ODT, PDF, Plucker, PostScript, TIFF and XPS.</description>
-    </item>
-    
-    <item>
-      <title>Noteonomy Project Index</title>
-      <link>https://www.githuka.com/posts/noteonomy/</link>
-      <pubDate>Mon, 12 Oct 2020 13:46:48 +0300</pubDate>
-      
-      <guid>https://www.githuka.com/posts/noteonomy/</guid>
-      <description>Introduction The Noteonomy Project is a longterm learning process about the intereting word of autonomous vehicle systems. In this project am using a real vehicle - Nissan Note E11 2008 as I start adding deices in it towards converting it into a connected car. The Nissan Note E11 2008 Model is a 5 door mini MPV hatchback manufactured by Nissan Japan. A connected car is a term use to describe a car that can interface with the internet for exchange of information.</description>
     </item>
     
     <item>

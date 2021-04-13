@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Complete Computer Clock // Wilfred&#39;s Online Notebook</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.81.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Wilfred Githuka" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://www.githuka.com/css/main.min.88e7083eff65effb7485b6e6f38d10afbec25093a6fac42d734ce9024d3defbd.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Complete Computer Clock"/>
+<meta name="twitter:description" content="This is the final set of components that will make up the complete computer clock. This last section will add 3 AND gates and an OR gate together with 2 ineverters and a HALT signal to halt the clock when needed to.
+Components  74LS04 Hex Inverters 74LS08 AND Gates 74LS32 OR Gates  Connection The main objective behind this final step in building our clock is to combine the previous: Astable pulse, Manual Pulse and Select pulse into one unified system."/>
+
+    <meta property="og:title" content="Complete Computer Clock" />
+<meta property="og:description" content="This is the final set of components that will make up the complete computer clock. This last section will add 3 AND gates and an OR gate together with 2 ineverters and a HALT signal to halt the clock when needed to.
+Components  74LS04 Hex Inverters 74LS08 AND Gates 74LS32 OR Gates  Connection The main objective behind this final step in building our clock is to combine the previous: Astable pulse, Manual Pulse and Select pulse into one unified system." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.githuka.com/posts/clock/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-12-16T20:27:54&#43;03:00" />
+<meta property="article:modified_time" content="2020-12-16T20:27:54&#43;03:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://www.githuka.com"><img class="app-header-avatar" src="/images/me.png" alt="Wilfred Githuka" /></a>
+      <h1>Wilfred&#39;s Online Notebook</h1>
+      <p>Lets Write</p>
+      <div class="app-header-social">
+        
+          <a target="_blank" href="https://github.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg></a>
+        
+          <a target="_blank" href="https://twitter.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <title>twitter</title>
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg></a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Complete Computer Clock</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Dec 16, 2020
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div></div>
+    </header>
+    <div class="post-content">
+      <p>This is the final set of components that will make up the complete computer clock. This
+last section will add 3 AND gates and an OR gate together with 2 ineverters and
+a HALT signal to halt the clock when needed to.</p>
+<p><img src="/img/8/clock.jpg" alt="all"></p>
+<h3 id="components">Components</h3>
+<ul>
+<li>74LS04 Hex Inverters</li>
+<li>74LS08 AND Gates</li>
+<li>74LS32 OR Gates</li>
+</ul>
+<h2 id="connection">Connection</h2>
+<p>The main objective behind this final step in building our clock is to combine
+the previous: Astable pulse, Manual Pulse and Select pulse into one unified
+system.</p>
+<p>The output of the Astable signal which is PIN 3 of the 555 timer is connected to
+the one input of the 74LS04 AND gates. Here I have used the first AND gate whih is
+on PIN 1 and PIN 2. The second input to the same AND gate is from the select button
+which on the breadboard is the output of the 555 timer on PIN 3.</p>
+<p>The second AND gate is the one on PIN 4 and PIN 5 with the output being on PIN 6 of the
+same 74LS08. One of the input of this AND gate is from the Select switch but there is
+an inverter before it. This inversion function is provided by 74LS04&rsquo;s PIN 1 and PIN 2.
+The second input of the AND gate is provided by the input signal from the Manual pulse.
+This manual pulse is from the output of the 555 timer.</p>
+<p>The output of the first and second AND gates are connected to an OR gate which is provided
+by PIN 1 and PIN 2 of the 74LS32.</p>
+<p>I have also added a HALT signal that will always be low with an inverter which is then
+connected to the final AND gate that gives the output.</p>
+<p><img src="/img/8/clock_pc.jpg" alt="detail"></p>
+<p><img src="/img/8/clock_all.jpg" alt="all"></p>
+<h2 id="principle-of-operation">Principle of Operation</h2>
+<p>This circuit has 4 inputs and 1 output. 3 inputs consist of output signals from the Astable pulse,
+Manual pulse and Select switch pulse. The last input is from the HALT signal.</p>
+<p>If the select is ON and the Astable signal is ON, the AND gate will have a 1 in its output. In the
+second AND gate when the select is ON the inverter with invert this to a 0 which will be fed into
+the AND gate. Irrespective of whether the Manual pulse is 1 or 0, the presence of the 0 on the other
+terminal is make the AND gate give a 0. Only when the select is in OFF state that this AND gate can
+give a 1 depending on also the state of the Manual pulse.</p>
+<p>The output of the 2 AND gates is fed through an OR gate which is now fed into the final AND gate together
+with the input of the HALT signal.</p>
+<h2 id="improvements--mods">Improvements &amp; Mods</h2>
+<p>The clock circuit is by no means complete. I already see ways I can make it more efficient and
+also more safer. The new LED that I added is not protected by a resistor, hence its high bright
+light which is as a result of drawing alot of current.</p>
+<p>This computer clock will be an integral part of the whole 8bit computer. The next section will be
+making the Register and Arithmetic Logic Unit.</p>
+<h2 id="index">Index</h2>
+<ul>
+<li><a href="https://www.githuka.com/posts/8bit-home/">8bit Home</a></li>
+<li><a href="">&mdash;Clock Module</a></li>
+<li><a href="">&mdash;555 Clock Signal Basics</a></li>
+<li><a href="">&mdash;Monostable</a></li>
+<li><a href="">&mdash;Bistable</a></li>
+<li><a href="">&mdash;Complete Clock</a></li>
+<li>Arithmetic Logic Unit</li>
+<li>Random Access Memory(RAM) module</li>
+<li>Program Counter</li>
+<li>Output Register</li>
+<li>Bringing It All Together</li>
+</ul>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

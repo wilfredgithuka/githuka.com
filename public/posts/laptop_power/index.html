@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Building A Linux Carputer - Power Sytem // Wilfred&#39;s Online Notebook</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.81.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Wilfred Githuka" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://www.githuka.com/css/main.min.88e7083eff65effb7485b6e6f38d10afbec25093a6fac42d734ce9024d3defbd.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Building A Linux Carputer - Power Sytem"/>
+<meta name="twitter:description" content="Requirements
+ Boot on power connection Have a backup battery Wake up on LAN/WoW Minimum power requirement during running and standby Sleep/Hibernate Mode SSH Server Running Headless operation  Boot Steps  Wake up on LAN/WoW Create a Wifi Network Static IP Address Start SSH Server   Following the above requirements lets build a special purpose car computer.
+Th first thing to do is to ensure that I can connect to it and print out the sytem details (KYD = Know Your Hardware)."/>
+
+    <meta property="og:title" content="Building A Linux Carputer - Power Sytem" />
+<meta property="og:description" content="Requirements
+ Boot on power connection Have a backup battery Wake up on LAN/WoW Minimum power requirement during running and standby Sleep/Hibernate Mode SSH Server Running Headless operation  Boot Steps  Wake up on LAN/WoW Create a Wifi Network Static IP Address Start SSH Server   Following the above requirements lets build a special purpose car computer.
+Th first thing to do is to ensure that I can connect to it and print out the sytem details (KYD = Know Your Hardware)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.githuka.com/posts/laptop_power/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-04-10T20:19:56&#43;03:00" />
+<meta property="article:modified_time" content="2021-04-10T20:19:56&#43;03:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://www.githuka.com"><img class="app-header-avatar" src="/images/me.png" alt="Wilfred Githuka" /></a>
+      <h1>Wilfred&#39;s Online Notebook</h1>
+      <p>Lets Write</p>
+      <div class="app-header-social">
+        
+          <a target="_blank" href="https://github.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg></a>
+        
+          <a target="_blank" href="https://twitter.com/wilfredgithuka" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <title>twitter</title>
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg></a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Building A Linux Carputer - Power Sytem</h1>
+      <div class="post-meta">
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Apr 10, 2021
+        </div>
+        <div>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div></div>
+    </header>
+    <div class="post-content">
+      <p>Requirements</p>
+<ul>
+<li>Boot on power connection</li>
+<li>Have a backup battery</li>
+<li>Wake up on LAN/WoW</li>
+<li>Minimum power requirement during running and standby</li>
+<li>Sleep/Hibernate Mode</li>
+<li>SSH Server Running</li>
+<li>Headless operation</li>
+</ul>
+<h2 id="boot-steps">Boot Steps</h2>
+<ul>
+<li>Wake up on LAN/WoW</li>
+<li>Create a Wifi Network Static IP Address</li>
+<li>Start SSH Server</li>
+<li></li>
+</ul>
+<p>Following the above requirements lets build a special purpose car computer.</p>
+<p>Th first thing to do is to ensure that I can connect to it and print
+out the sytem details (KYD = Know Your Hardware). hwinfo is a powerful
+hardware detection tool come from openSUSE. This will be sufficient for
+now. The output of hwinfo can be messy and overhelming so just sending
+it to a file is enough</p>
+<pre><code>sudo hwinfo &gt; hardwareinfo.txt
+</code></pre><p>This old laptop is powered by a an AMD E-300 APU with Radeon HD Graphics
+card. The AMD E-300 (codename Zacate) is a dual core processor for small
+notebooks and netbooks. It offers a relatively powerful integrated
+graphics card and a single channel DDR3-1066 memory controller. This CPU is
+rated at 18W which is good for in-vehicle power requirements. It also has
+a maximum temperature of 90 Degrees while it can achieve Core C1 and C6 states
+of low power.</p>
+<h2 id="network-connection---going-headless">Network Connection - Going Headless</h2>
+<p>I plan to run this computer headless inforder to reduce its power conumption since
+the screen draws too much power. With SSH I can accomplish all that I need to do.
+Before going headless I need to make sure that I can SSH into it as soon as the boot
+sequence is complete.</p>
+<h2 id="power-consumption">Power Consumption</h2>
+<p>The goal here is to reduce the power consumption to as minimal as possible.</p>
+<p>This laptop is powered by a normal charger which takes in 240V (100-240V) AC and draws
+1.8A at 50-60Hz. The output is 19V DC at 3.42A</p>
+<p>Input: 240V AC</p>
+<p>Output: 19V DC</p>
+<p>The main challenge I forsee is to see how I can drop the 19V to 12V which is widely
+available on the vehicle. Using the power formula, P=IV, the power drawn is 65W. By running
+headless, without the screen I forsee I can drop the power consumption to 30W. Also by
+shaving off the old harddrive for an SSD should drop further the power consumed.</p>
+<p>First I need to understand the power consumed by each device</p>
+<p>Advanced Configuration and Power Interface (ACPI) is an open industry specification
+codeveloped by Hewlett-Packard, Intel, Microsoft, Phoenix, and Toshiba.ACPI establishes
+industry-standard interfaces, enabling OS-directed configuration, power
+management, and thermal management of mobile, desktop, and server platforms.</p>
+<p>The ACPI system allows only four possible C-States; C0, C1, C2, and C3</p>
+<p>For Linux based OSs, the OS can request C-states, either using the ACPI idle driver (acpi_idle)
+or through the use of the intel_idle driver.</p>
+<p>To find out what idle driver Linux is using, one can issue:</p>
+<pre><code>cat /sys/devices/system/cpu/cpuidle/current_driver
+</code></pre><p>This computer runs the acpi_idle</p>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
