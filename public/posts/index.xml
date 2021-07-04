@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wilfred&#39;s Online Notebook</title>
-    <link>https://www.githuka.com/posts/</link>
+    <link>https://githuka.com/posts/</link>
     <description>Recent content in Posts on Wilfred&#39;s Online Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Apr 2021 20:19:56 +0300</lastBuildDate><atom:link href="https://www.githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 20:19:56 +0300</lastBuildDate><atom:link href="https://githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building A Linux Carputer - Power Sytem</title>
-      <link>https://www.githuka.com/posts/laptop_power/</link>
+      <link>https://githuka.com/posts/laptop_power/</link>
       <pubDate>Sat, 10 Apr 2021 20:19:56 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/laptop_power/</guid>
+      <guid>https://githuka.com/posts/laptop_power/</guid>
       <description>Requirements
  Boot on power connection Have a backup battery Wake up on LAN/WoW Minimum power requirement during running and standby Sleep/Hibernate Mode SSH Server Running Headless operation  Boot Steps  Wake up on LAN/WoW Create a Wifi Network Static IP Address Start SSH Server   Following the above requirements lets build a special purpose car computer.
 Th first thing to do is to ensure that I can connect to it and print out the sytem details (KYD = Know Your Hardware).</description>
@@ -19,10 +19,10 @@ Th first thing to do is to ensure that I can connect to it and print out the syt
     
     <item>
       <title>Thursday 25th March 2021 - Let Me Love You by Mario - English and French Lyrics</title>
-      <link>https://www.githuka.com/posts/gabon20210325/</link>
+      <link>https://githuka.com/posts/gabon20210325/</link>
       <pubDate>Sat, 27 Mar 2021 22:30:08 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/gabon20210325/</guid>
+      <guid>https://githuka.com/posts/gabon20210325/</guid>
       <description>Bojour bonjour
 As a get deeper into my french learning I have decided to look for a French ong which I can learn at my own pace that is not too complex for my level.
 This song below is what I have come accross so far. Its a song by Mario - Let Me Love You which was performed by a youtuber called xxx. His speed is slighlty fast so I hope I can manage.</description>
@@ -30,10 +30,10 @@ This song below is what I have come accross so far. Its a song by Mario - Let Me
     
     <item>
       <title>Flashing SONY Xperia M2 Dual</title>
-      <link>https://www.githuka.com/posts/sonyd2302flashtool/</link>
+      <link>https://githuka.com/posts/sonyd2302flashtool/</link>
       <pubDate>Mon, 15 Mar 2021 23:49:27 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/sonyd2302flashtool/</guid>
+      <guid>https://githuka.com/posts/sonyd2302flashtool/</guid>
       <description>If for anychance you brick your SONY Xperia M2 Dual and you cannot boot it, there are chances that it needs to be flashed clean. This manual will describe the process of a Linux machine.
 Requirements  A good internet connection USB cable Memory Time and Patience  System Preparation First and foremost ensure that your system is updated.
 sudo pacman -Syu Change to root user sudo -i Then add the ruled cd /etc/udev/rules.</description>
@@ -41,49 +41,49 @@ sudo pacman -Syu Change to root user sudo -i Then add the ruled cd /etc/udev/rul
     
     <item>
       <title>Wilfred Au Gabon</title>
-      <link>https://www.githuka.com/posts/gabon/</link>
+      <link>https://githuka.com/posts/gabon/</link>
       <pubDate>Sun, 14 Mar 2021 17:56:08 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/gabon/</guid>
+      <guid>https://githuka.com/posts/gabon/</guid>
       <description>This is a log book of my experience in Gabon + pieces of useful info to all who might be planning to travel to Gabon
 About Gabon Gabon [ɡabɔ̃], officially called the Gabonese Republic, République Gabonaise, is a french speaking country Located on the equator, west Africa with an are of approx 270,000 km2. It is bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo on the east and south, and the Gulf of Guinea to the west.</description>
     </item>
     
     <item>
       <title>Blender Cloth Napkin Tutorial</title>
-      <link>https://www.githuka.com/posts/blender_cloth_napkin/</link>
+      <link>https://githuka.com/posts/blender_cloth_napkin/</link>
       <pubDate>Sun, 14 Mar 2021 09:48:30 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/blender_cloth_napkin/</guid>
+      <guid>https://githuka.com/posts/blender_cloth_napkin/</guid>
       <description>This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&amp;rsquo;s cycles render engine is used during this video. Blender version 2.68a was used for this tutorial. This video shows many techniques that may be helpful to beginners.This Blender video demonstrates how to make an image of a cloth napkin draped over a glass cup. Blender&amp;rsquo;s cycles render engine is used during this video.</description>
     </item>
     
     <item>
       <title>In Gabon When It Rains It Pours</title>
-      <link>https://www.githuka.com/posts/gabon20210312/</link>
+      <link>https://githuka.com/posts/gabon20210312/</link>
       <pubDate>Sat, 13 Mar 2021 07:10:00 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/gabon20210312/</guid>
+      <guid>https://githuka.com/posts/gabon20210312/</guid>
       <description>Just as the title reads when it rains here it pours. The rains here are very windy which is a relief to many since temperatures fall by 5 degrees, momentarily cooling the rather hot and humid landscape.
 According to weather-atlas.com - The first month of the spring, March, is a tropical month in Libreville, Gabon, with average temperature ranging between min 25.3°C (77.5°F) and max 30.1°C (86.2°F). With an average high-temperature of 30.</description>
     </item>
     
     <item>
       <title>Learning Blender To Improve Productivity</title>
-      <link>https://www.githuka.com/posts/blender/</link>
+      <link>https://githuka.com/posts/blender/</link>
       <pubDate>Wed, 10 Mar 2021 23:24:32 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/blender/</guid>
+      <guid>https://githuka.com/posts/blender/</guid>
       <description>Blender is awesome :-)
 What is Blender? Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.</description>
     </item>
     
     <item>
       <title>Shpping Container House In Libreville - Wednesday 10th March 2021</title>
-      <link>https://www.githuka.com/posts/gabon20210310/</link>
+      <link>https://githuka.com/posts/gabon20210310/</link>
       <pubDate>Wed, 10 Mar 2021 22:42:05 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/gabon20210310/</guid>
+      <guid>https://githuka.com/posts/gabon20210310/</guid>
       <description>Today was another opportunity to safely leave the site and tour the Libreville while buying some supplies.
 During the many hours we spend moving around, it was clear that the Gabonese road users do not like their roads marked. This was in contrast to Kenya where at least most newly paved roads have some form of lane markings. Here its visible non-existent.
 Today I can brag I got a better picture of the ocean than the one I took last week.</description>
@@ -91,49 +91,49 @@ Today I can brag I got a better picture of the ocean than the one I took last we
     
     <item>
       <title>The Pains of Running</title>
-      <link>https://www.githuka.com/posts/gabon20210308/</link>
+      <link>https://githuka.com/posts/gabon20210308/</link>
       <pubDate>Mon, 08 Mar 2021 23:27:36 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/gabon20210308/</guid>
+      <guid>https://githuka.com/posts/gabon20210308/</guid>
       <description>Ever since I came to Gabon I started a morning workout plan of running 5 laps around the running track in the new stadium. During last week I was not strict but this week I plan on running 5 laps in the mornings which will total out to 7x5=35 laps this week.
 It takes quite alot of muscle to run and because this is something that my musles are not used to, the pain after the run can be somewhat hell.</description>
     </item>
     
     <item>
       <title>The Sights of Gabon - Friday 5th March 2021</title>
-      <link>https://www.githuka.com/posts/gabon20210305/</link>
+      <link>https://githuka.com/posts/gabon20210305/</link>
       <pubDate>Sat, 06 Mar 2021 22:48:35 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/gabon20210305/</guid>
+      <guid>https://githuka.com/posts/gabon20210305/</guid>
       <description>Today I finally had the chance to leave the Special Economic Zone and head out for a drive to buy some equipment and materials. As usual I donned an N95 mask and very cautious in maintaining social distance in all my interractions. From what I saw today, Gabonese people and very kind and curtious. Despite my very very basic knowledge of French, I managed to answer greetings and smile in return.</description>
     </item>
     
     <item>
       <title>Complete Computer Clock</title>
-      <link>https://www.githuka.com/posts/clock/</link>
+      <link>https://githuka.com/posts/clock/</link>
       <pubDate>Wed, 16 Dec 2020 20:27:54 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/clock/</guid>
+      <guid>https://githuka.com/posts/clock/</guid>
       <description>This is the final set of components that will make up the complete computer clock. This last section will add 3 AND gates and an OR gate together with 2 ineverters and a HALT signal to halt the clock when needed to.
 Components  74LS04 Hex Inverters 74LS08 AND Gates 74LS32 OR Gates  Connection The main objective behind this final step in building our clock is to combine the previous: Astable pulse, Manual Pulse and Select pulse into one unified system.</description>
     </item>
     
     <item>
       <title>The Githuka Noteonomy Project - Index</title>
-      <link>https://www.githuka.com/posts/noteonomy/</link>
+      <link>https://githuka.com/posts/noteonomy/</link>
       <pubDate>Mon, 07 Dec 2020 13:46:48 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/noteonomy/</guid>
+      <guid>https://githuka.com/posts/noteonomy/</guid>
       <description>Introduction A self-driving car, aka anautonomous vehicle, connected and autonomous vehicle (CAV), full self-driving car or driverless car, or robo-car or robotic car, is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
 Manufactusers hav been announcing the arrival of autonomous vehicles since March 2017 with leading companies prediciting that 2020 shall be the golden year for autonomous vehicles. Much of this was projections but not actual deliverables due to challenges like legal provisions which would hinder this develpment.</description>
     </item>
     
     <item>
       <title>8bit Home - Building an 8-bit computer from scratch</title>
-      <link>https://www.githuka.com/posts/8bit-home/</link>
+      <link>https://githuka.com/posts/8bit-home/</link>
       <pubDate>Sun, 29 Nov 2020 08:47:51 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/8bit-home/</guid>
+      <guid>https://githuka.com/posts/8bit-home/</guid>
       <description>Building a computer from scratch is a crazy idea, given the small details one has to be careful with. Also the time investment for debugging is immense.
 But the learning content is incredible.
 This is the reason why am starting this long journey of building an 8bit computer from scratch. Am building mine from TTL chips using the kits provided by Ben Eater
@@ -142,10 +142,10 @@ What is an 8bit Computer? In computing a bit is 0 and 1, therefore the following
     
     <item>
       <title>Organaizing Contacts with Python</title>
-      <link>https://www.githuka.com/posts/python_contacts/</link>
+      <link>https://githuka.com/posts/python_contacts/</link>
       <pubDate>Tue, 13 Oct 2020 20:59:16 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/python_contacts/</guid>
+      <guid>https://githuka.com/posts/python_contacts/</guid>
       <description>At work I come accross many people&amp;rsquo;s contacts mostly of which I have to store in my phone, create groups for further communication etc. When I am dealing with more than 200 contacts per week, things can get messy and tedious that is why I have found a nice way to inject some Python into my contacts workflow.
 The workflow is as follows:
  Receive contact info in a word document.</description>
@@ -153,29 +153,29 @@ The workflow is as follows:
     
     <item>
       <title>中文版的电脑软件 Linux Chinese Software</title>
-      <link>https://www.githuka.com/posts/chinese_toolbox/</link>
+      <link>https://githuka.com/posts/chinese_toolbox/</link>
       <pubDate>Tue, 13 Oct 2020 10:39:04 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/chinese_toolbox/</guid>
+      <guid>https://githuka.com/posts/chinese_toolbox/</guid>
       <description>The following is a list of applictions that I use in a Chinese environment which I think might be useful to my readers.
 Document Processing WPS Office Linux yay -S wps-office PDF  MuPDF is Very fast EPUB, FictionBook, PDF, XPS and Comicbook viewer written in portable C. Features CJK font support. Okular — Universal document viewer for KDE. Supports CHM, Comicbook, DjVu, DVI, EPUB, FictionBook, Mobipocket, ODT, PDF, Plucker, PostScript, TIFF and XPS.</description>
     </item>
     
     <item>
       <title>Curated Reading Content</title>
-      <link>https://www.githuka.com/posts/reading/</link>
+      <link>https://githuka.com/posts/reading/</link>
       <pubDate>Mon, 12 Oct 2020 12:44:18 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/reading/</guid>
+      <guid>https://githuka.com/posts/reading/</guid>
       <description>SDR - Software Defined Radio  pySRD:A Guide to SRD and DSP using Python  Digital Signal Processing using Python</description>
     </item>
     
     <item>
       <title>12V DC Power</title>
-      <link>https://www.githuka.com/posts/note_power/</link>
+      <link>https://githuka.com/posts/note_power/</link>
       <pubDate>Tue, 22 Sep 2020 13:51:37 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/note_power/</guid>
+      <guid>https://githuka.com/posts/note_power/</guid>
       <description>Introdution The Nissan Note comes with a 12V 40mAH Lead Acid Car battery which is used for starting the car&amp;rsquo;s engine and also powering essential devices in the car. This project is how I have added an extra car battery which will be located at the back and power other devices.
 Its not wise to use the primary battery since when its low its hard to start the engine.
 Circuit The circuit that am working on shall have an input of 12VDC from the secondary battery and an output of 12V &amp;amp; 5V.</description>
@@ -183,10 +183,10 @@ Circuit The circuit that am working on shall have an input of 12VDC from the sec
     
     <item>
       <title>2020 Nissan Note E11 2008 Mods</title>
-      <link>https://www.githuka.com/posts/note_index/</link>
+      <link>https://githuka.com/posts/note_index/</link>
       <pubDate>Tue, 22 Sep 2020 12:46:24 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/note_index/</guid>
+      <guid>https://githuka.com/posts/note_index/</guid>
       <description>Power Adding an extra 12V 30mAH old car battery to power peripherals.
 Raspberry Pi Connection Adding a Raspberry Pi to act as a carputer
 Media Center Upgrading the car&amp;rsquo;s audio system.
@@ -195,10 +195,10 @@ Misc Modification Simple modifications.</description>
     
     <item>
       <title>Posts Guide and Format</title>
-      <link>https://www.githuka.com/posts/posts_manual/</link>
+      <link>https://githuka.com/posts/posts_manual/</link>
       <pubDate>Thu, 17 Sep 2020 23:18:13 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/posts_manual/</guid>
+      <guid>https://githuka.com/posts/posts_manual/</guid>
       <description>I am one person who is careful when it comes to order and perfection and such has neccessiated me to create this manual to help me improve my projects writing and formarting
 Images Format &amp;amp; Size Requirements Image Tools GIMP is a powerful raster image editing.
 sudo pacman -S gimp imagemagick Idenify image size identify -format &amp;quot;%wx%h&amp;quot; image.jpg Resize ignoring aspect ratio convert image.png -resize 100x100! image_resized.png Resize keeping aspect ratio convert image.</description>
@@ -206,20 +206,20 @@ sudo pacman -S gimp imagemagick Idenify image size identify -format &amp;quot;%w
     
     <item>
       <title>Serving Posts/Articles as PDFs</title>
-      <link>https://www.githuka.com/posts/minimalist_pdf/</link>
+      <link>https://githuka.com/posts/minimalist_pdf/</link>
       <pubDate>Tue, 05 May 2020 08:37:41 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/minimalist_pdf/</guid>
+      <guid>https://githuka.com/posts/minimalist_pdf/</guid>
       <description>There is nothing good -and awesome- like a well written manual or post to a problem which is well explained and above all is available to read offline.
 Am an offline advocate and as much as I write on this website, I like to read stuff offline. Go to the website, download the post, article etc and read it when am not busy. Normally, to do this I have to save the website, link or snapshot the site which is to the very least, tedious.</description>
     </item>
     
     <item>
       <title>Wilfred Learns Morse Code</title>
-      <link>https://www.githuka.com/posts/morse/</link>
+      <link>https://githuka.com/posts/morse/</link>
       <pubDate>Tue, 21 Apr 2020 13:03:20 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/morse/</guid>
+      <guid>https://githuka.com/posts/morse/</guid>
       <description>I think finally I have the time to learn some Morse Code.
 Morse Code is a an early rudimentary communication system developed by Samuel Morse, who also invented the Telegraph
 Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes or dits and dahs.
@@ -228,20 +228,20 @@ The International Morse Code encodes the 26 English letters A through Z, some no
     
     <item>
       <title>Monostable Mode</title>
-      <link>https://www.githuka.com/posts/monostable/</link>
+      <link>https://githuka.com/posts/monostable/</link>
       <pubDate>Fri, 03 Apr 2020 14:20:31 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/monostable/</guid>
+      <guid>https://githuka.com/posts/monostable/</guid>
       <description>In the previous post I talked about the simple introduction on how you can build a computer clock. If you have not read it, click here.
 Required Components  R1 - 1kOhm Pull Up Resistor - Control the state of Trigger(PIN2) between 5V and OV. R2 - 220Ohm Resistor in series with D1 for overcurrent protection. R3 - 1MOhm Resistor for the Discharging/Charging circuit. D1 - Yellow LED. C1 - 0.</description>
     </item>
     
     <item>
       <title>What Kisii Is Listening To At Night</title>
-      <link>https://www.githuka.com/posts/kisii_night_stations/</link>
+      <link>https://githuka.com/posts/kisii_night_stations/</link>
       <pubDate>Sun, 08 Mar 2020 21:59:03 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/kisii_night_stations/</guid>
+      <guid>https://githuka.com/posts/kisii_night_stations/</guid>
       <description>The title of this post might not reflect the concept behind this project but nevertheless just read along.
 The Electromagnetic spectrum (Spectrum of Electromagnetic Radiation) is one massive real eastate that is hardly seen by the naked eye. Only a small part of it is visible light while the rest is out of our eyes reach.
 Tonight I sought to see what FM frequencies are in use in Kisii County on this cold Sunday night.</description>
@@ -249,50 +249,50 @@ Tonight I sought to see what FM frequencies are in use in Kisii County on this c
     
     <item>
       <title>List of FM Radio Stations In Kenya</title>
-      <link>https://www.githuka.com/posts/fm_radio_stations/</link>
+      <link>https://githuka.com/posts/fm_radio_stations/</link>
       <pubDate>Fri, 06 Mar 2020 10:16:18 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/fm_radio_stations/</guid>
+      <guid>https://githuka.com/posts/fm_radio_stations/</guid>
       <description>Here is an unrodered list of FM Radio Stations and their respective frequencies. I am yet to verify their true frequencies and locations, plus broadcasting locations.
  Abiengo FM Kakamega 89.5 Radio Injili FM Kericho 103.7 Bibilia Husema Nairobi 96.7 Radio Maendeleo Bondo 98.6 Radio Amani Nakuru 88.3 Homeboyz Radio Nairobi 103.5 NRG Radio Nairobi 91.3 BBC World Service Nairobi 93.9 Capital FM Nairobi 98.4 China Radio International Nairobi 91.9 ATG Radio Nairobi 91.</description>
     </item>
     
     <item>
       <title>MDZhB - The Ghostly Radio Station That No One Claims To Run</title>
-      <link>https://www.githuka.com/posts/mdzhb/</link>
+      <link>https://githuka.com/posts/mdzhb/</link>
       <pubDate>Fri, 06 Mar 2020 01:05:23 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/mdzhb/</guid>
+      <guid>https://githuka.com/posts/mdzhb/</guid>
       <description>In the middle of a Russian swampland, not far from the city of St Petersburg, is a rectangular iron gate. Beyond its rusted bars is a collection of radio towers, abandoned buildings and power lines bordered by a dry-stone wall. This sinister location is the focus of a mystery which stretches back to the height of the Cold War.
 It is thought to be the headquarters of a radio station, “MDZhB”, that no-one has ever claimed to run.</description>
     </item>
     
     <item>
       <title>8Bit Computer - 555 Clock Signal Basics</title>
-      <link>https://www.githuka.com/posts/555/</link>
+      <link>https://githuka.com/posts/555/</link>
       <pubDate>Thu, 23 Jan 2020 21:17:47 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/555/</guid>
+      <guid>https://githuka.com/posts/555/</guid>
       <description>In this first project I build the basics of a computer clock. A clock is a signal that oscilates between a high and a low states and its used to keep everything in sync depending on how fast the clock speed it. This is part of a project to build an 8 bit computer from scratch, click here to learn more.
 Components  1X NE555 Timer 1X 1microfarad Capacitor 1x 0.</description>
     </item>
     
     <item>
       <title>The Ngong GV 115.9 VOR DME &amp; Geocaching</title>
-      <link>https://www.githuka.com/posts/ngong-gv-115.9-geocache/</link>
+      <link>https://githuka.com/posts/ngong-gv-115.9-geocache/</link>
       <pubDate>Mon, 20 Jan 2020 09:51:27 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/ngong-gv-115.9-geocache/</guid>
+      <guid>https://githuka.com/posts/ngong-gv-115.9-geocache/</guid>
       <description>As I read more about Armateur Radio, am beginning to be more aware of major wireless transmission sites around me. One of such is the Ngong GV 115.9 VOR DME.
 This is a huge circular beacon located on your way up to Ngong Hills just as you descend the second hill past the wind turbines. This equipment is is fenced and its very important for pilots as they navigate towards JKIA Airport.</description>
     </item>
     
     <item>
       <title>A Simple Database in Plain Old C</title>
-      <link>https://www.githuka.com/posts/c_database/</link>
+      <link>https://githuka.com/posts/c_database/</link>
       <pubDate>Thu, 12 Dec 2019 11:15:35 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/c_database/</guid>
+      <guid>https://githuka.com/posts/c_database/</guid>
       <description>C might be regarded as an old low level langage but it actually is very powerful.
 A databse can be created very easily in C. The following is a manual on how to create a simple database in C.
 This code is available in my github repo :-)
@@ -302,20 +302,20 @@ A chunk of RAM can be on heap or stack.</description>
     
     <item>
       <title>On-The-Go Simple Power Bank</title>
-      <link>https://www.githuka.com/posts/power-bank/</link>
+      <link>https://githuka.com/posts/power-bank/</link>
       <pubDate>Wed, 11 Dec 2019 19:35:12 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/power-bank/</guid>
+      <guid>https://githuka.com/posts/power-bank/</guid>
       <description>11.1V 12.6V Lithium Battery Manager System 3S 10A  Main Chip 8254AA (VCJ90) W1751 Smaller Chips 44071 and CK7F37 Charging Voltage: 12.6V - 13V Max opertating current:6-8A  Connection Details The BMS board has 6 terminal Connections:
  B+: Connect to Battery 3&amp;rsquo;s Positive terminal B-: Connect to Battery 1&amp;rsquo;s Negative terminal B1: Connect to Battery 1&amp;rsquo;s Positive and Battery 2&amp;rsquo;s Negative terminal B2: Connect to Battery 2&amp;rsquo;s Positive and Battery 3&amp;rsquo;s Negative terminal D+: Positive Charging/Discharging Connection D-: Negative Charging/Discharging Connection  </description>
     </item>
     
     <item>
       <title>No Screen. Access Rpi Model A via Serial Port</title>
-      <link>https://www.githuka.com/posts/pi_serial_port/</link>
+      <link>https://githuka.com/posts/pi_serial_port/</link>
       <pubDate>Sat, 12 Oct 2019 12:33:27 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/pi_serial_port/</guid>
+      <guid>https://githuka.com/posts/pi_serial_port/</guid>
       <description>The Raspberry Pi Model A Revision 2.0 is a really classic device. On of the early devices to be made in early 2011 and its still working upto this date.
 I have been having it for a while but these days I normally use it for learning purposes, mostly a general purpose computer.
 This manual is for those who dont have a HDMI or RCA cable for setup. I will be connecting it up on a serial port which is quite handy.</description>
@@ -323,10 +323,10 @@ This manual is for those who dont have a HDMI or RCA cable for setup. I will be 
     
     <item>
       <title>Sizeof-Ex12:Size&amp;Arrays in C</title>
-      <link>https://www.githuka.com/posts/sizeof/</link>
+      <link>https://githuka.com/posts/sizeof/</link>
       <pubDate>Sun, 29 Sep 2019 08:44:42 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/sizeof/</guid>
+      <guid>https://githuka.com/posts/sizeof/</guid>
       <description>The main objective of this exercise is to learn about sizeof and how it relates to arrays.
 C strings are just arrays of bytes.
 Sizeof is a unirary operator and C developers are obsessed about size of everything. In C memory size is key and you have to be keen on learning how much space is being taken up by stuff.
@@ -336,20 +336,20 @@ See the following code snippet:
     
     <item>
       <title>SMPS Detailed Principle of Operation</title>
-      <link>https://www.githuka.com/posts/smps_detail/</link>
+      <link>https://githuka.com/posts/smps_detail/</link>
       <pubDate>Sat, 07 Sep 2019 13:09:17 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/smps_detail/</guid>
+      <guid>https://githuka.com/posts/smps_detail/</guid>
       <description>This is a detailed explanation of the inner workings of a Switched Mode Power Supply. I have written a more simpler version which I recommend you read before coming to this one.
 SMPS Specs  Input Voltage: 240V AC Output Voltage: +12VDC, -12VDC, +5VDC(Regulated),GND 0V  Components  1x Main 240V Fuse 1x NTC x1 4x Rectification Diodes 2x 10 Micorfarad 240V Smoothening Electrolyctic Capacitors 1x 1mH Inductor FDM311 Green Mode FairChild Power Switch 2X 120KOhm Resistors (Snapper) 1x 1kV Capacitor(Snapper)  Input The SMPS has an input of 240VAC which passes through a fuse and an NTC.</description>
     </item>
     
     <item>
       <title>Epson L850 Inkjet Printer Driver Installation</title>
-      <link>https://www.githuka.com/posts/epson-l850/</link>
+      <link>https://githuka.com/posts/epson-l850/</link>
       <pubDate>Thu, 05 Sep 2019 05:14:30 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/epson-l850/</guid>
+      <guid>https://githuka.com/posts/epson-l850/</guid>
       <description>The Epson L850 is a versatile printer that I came accross recently. Its the kind of printers that carry along an ink tank which is good but abit messy when it comes to refilling it.
 Driver Installation This Driver installation tutorial is for Linux users specifically Archlinux. Am assuming that the connection media to the printer is via a USB 2.0 cable.
  Update your machine.  pacman -Syu  Install Epson Inkjet Printer Driver (ESC/P-R) for Linux.</description>
@@ -357,10 +357,10 @@ Driver Installation This Driver installation tutorial is for Linux users specifi
     
     <item>
       <title>Exercise3: Formatted Printing</title>
-      <link>https://www.githuka.com/posts/ex3/</link>
+      <link>https://githuka.com/posts/ex3/</link>
       <pubDate>Wed, 28 Aug 2019 09:59:45 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/ex3/</guid>
+      <guid>https://githuka.com/posts/ex3/</guid>
       <description>In the previous exercise It was all about using Makefiles to build. Now its all about printing stuff.
 The code for this exercise is preety straightforward but contains an important function. Have a look:
 #include &amp;lt;stdio.h&amp;gt; int main() { int age = 10; int height = 72; printf(&amp;quot;I am %d years old \n&amp;quot;, age); printf(&amp;quot;I am %d inches tall \n&amp;quot;, height); return 0; } This code base uses some basic implementations.</description>
@@ -368,20 +368,20 @@ The code for this exercise is preety straightforward but contains an important f
     
     <item>
       <title>Exercise 2: Using Makefiles to Build</title>
-      <link>https://www.githuka.com/posts/ex2/</link>
+      <link>https://githuka.com/posts/ex2/</link>
       <pubDate>Tue, 27 Aug 2019 14:41:32 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/ex2/</guid>
+      <guid>https://githuka.com/posts/ex2/</guid>
       <description>Make has been around for a while. In software development, Make is a build automation tool that automatically builds executable programs and libraries from source code by reading files called Makefiles which specify how to derive the target program. Though integrated development environments and language-specific compiler features can also be used to manage a build process, Make remains widely used, especially in Unix and Unix-like operating systems.
 Read: man make for more information.</description>
     </item>
     
     <item>
       <title>Exercise 1: Dust off that Compiler</title>
-      <link>https://www.githuka.com/posts/ex1/</link>
+      <link>https://githuka.com/posts/ex1/</link>
       <pubDate>Sun, 25 Aug 2019 14:16:09 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/ex1/</guid>
+      <guid>https://githuka.com/posts/ex1/</guid>
       <description>In this second exercise, its all about writing code and seeing what happens. Click here for the tutorial&amp;rsquo;s index page.
 This is the code snippet for this exercise.
 #include &amp;lt;stdio.h&amp;gt; /*This is a comment*/ int main(int argc, char *argv[]) { int distance = 100; //This is another comment printf(&amp;quot;You are %d miles away \n&amp;quot;, distance); return 0; } Compiling To compile it you have to use make. GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program&amp;rsquo;s source files.</description>
@@ -389,20 +389,20 @@ This is the code snippet for this exercise.
     
     <item>
       <title>Exercise 0: The Setup</title>
-      <link>https://www.githuka.com/posts/ex0/</link>
+      <link>https://githuka.com/posts/ex0/</link>
       <pubDate>Sun, 25 Aug 2019 13:56:08 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/ex0/</guid>
+      <guid>https://githuka.com/posts/ex0/</guid>
       <description>This is ground zero for the tutorial. But before starting any developent using C, you need to prepare your computer to make sure you have the necessary tools. This tutorial is for an Archlinux machine, which am using.
 The Linux kernel and the GNU userland are written primarily in C. Arch Linux uses the GNU C Library (glibc) as the C standard library; it is a dependency of the base meta package.</description>
     </item>
     
     <item>
       <title>Learning C The Hard Way</title>
-      <link>https://www.githuka.com/posts/lcthw-index/</link>
+      <link>https://githuka.com/posts/lcthw-index/</link>
       <pubDate>Mon, 19 Aug 2019 10:25:51 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/lcthw-index/</guid>
+      <guid>https://githuka.com/posts/lcthw-index/</guid>
       <description>This is the index page for Learning C using the book by Zed A Shaw, Learn C The Hard Way.
 C is an interesting langauge, but learning C can be tough which am ready for.
 Twende Kazi.
@@ -411,40 +411,40 @@ What is C?  C is broken, so I have to fix it. C is a preety UGLY and at the same
     
     <item>
       <title>ExGNU Radio Project Update</title>
-      <link>https://www.githuka.com/posts/exgnu_radio/</link>
+      <link>https://githuka.com/posts/exgnu_radio/</link>
       <pubDate>Mon, 08 Jul 2019 20:07:26 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/exgnu_radio/</guid>
+      <guid>https://githuka.com/posts/exgnu_radio/</guid>
       <description>The ExGNU Radio project is a skilling-up practical project to improve my soldering skills. Its a simple to complex kind of project which starts out simple and ends up being more complex as I dive deeper.
 For sometime I have had these cheap Chinese-made FM &amp;amp; Tape deck receivers which also happens to have an Memory-Card reader section. The integration of these major sections is so poor that tt keeps breaking down.</description>
     </item>
     
     <item>
       <title>Switch Mode Power Supplies Online Resources</title>
-      <link>https://www.githuka.com/posts/smps_resources/</link>
+      <link>https://githuka.com/posts/smps_resources/</link>
       <pubDate>Mon, 24 Jun 2019 08:28:53 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/smps_resources/</guid>
+      <guid>https://githuka.com/posts/smps_resources/</guid>
       <description>This is a curated list of internet resorces that I think are really useful when it comes to matters relating Switch Mode Power Supplies and low level electronics.
 Websites  DiodeGoneWild - Youtube Channel TroubleShooting and Reparing SMPS Ken Shirrif&amp;rsquo;s Blog TubeTimeUS EvilMadScientist  Books &amp;amp; Manuals  TroubleShooting and Reparing SMPS Switchmode Power Supply Handbook  Back to work :-)</description>
     </item>
     
     <item>
       <title>SMPS Basic Principle Of Operation</title>
-      <link>https://www.githuka.com/posts/smps_basic_principal_of_operation/</link>
+      <link>https://githuka.com/posts/smps_basic_principal_of_operation/</link>
       <pubDate>Tue, 28 May 2019 08:58:44 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/smps_basic_principal_of_operation/</guid>
+      <guid>https://githuka.com/posts/smps_basic_principal_of_operation/</guid>
       <description>A Switched Mode Power supply is one of the most efficient ways to step down AC to DC which can be used by domestic appliances like mobile chargers, laptops and pcs. Its an advancement from liner power supplies and this technology has seen wall chargers get smaller and more efficient.
 In the most simple definition, an smps is a type of power supply that uses semi-conductor devices&#39; switching techniques rather than the standard linear methods to provide a stable reliable and safe output voltage.</description>
     </item>
     
     <item>
       <title>The Longonot Earth Station</title>
-      <link>https://www.githuka.com/posts/longonot/</link>
+      <link>https://githuka.com/posts/longonot/</link>
       <pubDate>Sun, 26 May 2019 19:27:46 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/longonot/</guid>
+      <guid>https://githuka.com/posts/longonot/</guid>
       <description>Located right at the floor of the Rift Valley is one less talked about sites in Kenya. Infact many trekkers of Mt.Longonot will briefly mention it or perhaps see it in the distance, not giving it much thought either.
 The station is located South of Mt. Longonot which is 60kms from the capital, Nairobi.
 The Longonot Earth Station is a specialised terrestrial terminal used to communicate with satellites in space. The two large satellite sites were built in 1970 and 1990 respectively and were used by the East African countries under the then East African Exchange Telecommunications (Extelcoms).</description>
@@ -452,69 +452,69 @@ The Longonot Earth Station is a specialised terrestrial terminal used to communi
     
     <item>
       <title>Zesta2 Switched Mode Power Supply Project</title>
-      <link>https://www.githuka.com/posts/zesta2smps/</link>
+      <link>https://githuka.com/posts/zesta2smps/</link>
       <pubDate>Wed, 15 May 2019 08:14:10 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/zesta2smps/</guid>
+      <guid>https://githuka.com/posts/zesta2smps/</guid>
       <description>Introduction zesta2 is improvement of the first zesta project. This will be a complete make-from-scratch laptop power supply module. The zesta project which I currently use works well but due to the parts not made by me, there is so much constraints that I am facing.
 The result is just to make my own power supply/laptop charger from scratch. I will be in control of the specs and most important, the design.</description>
     </item>
     
     <item>
       <title>Setting Up A Local Deep Learnning Environment NVIDIA GPU&#43;Tensorflow&#43;Keras&#43;CuDNN&#43;CUDA in Archlinux</title>
-      <link>https://www.githuka.com/posts/local_gpu_setup/</link>
+      <link>https://githuka.com/posts/local_gpu_setup/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/local_gpu_setup/</guid>
+      <guid>https://githuka.com/posts/local_gpu_setup/</guid>
       <description>Dont get me wrong, am not against cloud based GPU&amp;rsquo;s designed to simplyfy the process of training your neural networks but sometimes having a local less powerful setup is great. An AWS GPU is awesome and is less tiring when it comes to setup, so this manual is for those who want to get to low level and understand what happens there.
 Machine Specs First let me list my hardware specs so that we can have a benchark as we go forth.</description>
     </item>
     
     <item>
       <title>IOU in Tensor Flow vs Manual Calculation</title>
-      <link>https://www.githuka.com/posts/tensor-flow-iou/</link>
+      <link>https://githuka.com/posts/tensor-flow-iou/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/tensor-flow-iou/</guid>
+      <guid>https://githuka.com/posts/tensor-flow-iou/</guid>
       <description>IoU is an acronym for Interestion over Union, a type of semantic segemtation used in the identification of objects. This is a very important tool for autonomous vehicles to not only identify objects, but also to recognise them apart from other objects.
 Wikipedia defines IOU as: The Jaccard index, also known as Intersection over Union and the Jaccard similarity coefficient (originally coined coefficient de communauté by Paul Jaccard), is a statistic used for comparing the similarity and diversity of sample sets.</description>
     </item>
     
     <item>
       <title>How to Enable Nerdy Stats in Euro Truck Simulator</title>
-      <link>https://www.githuka.com/posts/ets2_nerdy_stats/</link>
+      <link>https://githuka.com/posts/ets2_nerdy_stats/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/ets2_nerdy_stats/</guid>
+      <guid>https://githuka.com/posts/ets2_nerdy_stats/</guid>
       <description>The developer console is not just a powerful tool to gain immediate access to certain game variables and commands for power users, mappers, modders and so on. It&amp;rsquo;s also something your average user might want to have enabled for reporting bugs, taking screenshots (though the new photo edit mode is good for that as well) and for mod users who want to see if that new mod he installed has any issues.</description>
     </item>
     
     <item>
       <title>Path Planning in C&#43;&#43; Part 2</title>
-      <link>https://www.githuka.com/posts/straight_line_hit/</link>
+      <link>https://githuka.com/posts/straight_line_hit/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/straight_line_hit/</guid>
+      <guid>https://githuka.com/posts/straight_line_hit/</guid>
       <description>I managed to solve the driving-in-a straight line by calculating the trajectory of the vehicle instead of directly feeding the trajectory as I had done earler. This can be seen in the image below.
 But now I have developed another problem such that my vehicle is hitting other cars on the same lane. I thought I would be able to solve this by reducing the value of dist_inc down to 0.</description>
     </item>
     
     <item>
       <title>Path Planning on C&#43;&#43;</title>
-      <link>https://www.githuka.com/posts/straight_line/</link>
+      <link>https://githuka.com/posts/straight_line/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/straight_line/</guid>
+      <guid>https://githuka.com/posts/straight_line/</guid>
       <description>Introduction The path planning project is by far the most interesting project after Behavioral Clonning Project. This project is for Term3 (Last Term) and it is the first project for this term.
 The main objective is to create a path planner that will be able to safely and smoothly create a path for a vehicle to follow along on a 3 lane highway traffic.It should be able to keep inside its lane, avoid hitting other cars and pass slow moving traffic all by using localisation, sensor fusion and map data.</description>
     </item>
     
     <item>
       <title>RaspberryPi Arduino UNO Serial Port Connection</title>
-      <link>https://www.githuka.com/posts/pi-uno-serial2/</link>
+      <link>https://githuka.com/posts/pi-uno-serial2/</link>
       <pubDate>Sun, 01 Jul 2018 13:03:06 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/pi-uno-serial2/</guid>
+      <guid>https://githuka.com/posts/pi-uno-serial2/</guid>
       <description>Our Self Driving Model Car uses a RaspberryPi and Arduino for power and control. These two powerful and functional devices must have smooth communication else our car will have control problems thereafter. In our previous car model we used a RaspberryPi only but now we have an Arduini UNO which will be used to control the wheels.
 Student1: What is the RaspberryPi and Arduino?
 The RaspberryPi is a single board, credit card sized computer that runs minimal software and can be used in very many areas.</description>
@@ -522,20 +522,20 @@ The RaspberryPi is a single board, credit card sized computer that runs minimal 
     
     <item>
       <title>RaspberryPi-Arduino UNO Serial Port Connection in C/C&#43;&#43;</title>
-      <link>https://www.githuka.com/posts/pi-uno-serial/</link>
+      <link>https://githuka.com/posts/pi-uno-serial/</link>
       <pubDate>Sun, 01 Jul 2018 13:03:06 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/pi-uno-serial/</guid>
+      <guid>https://githuka.com/posts/pi-uno-serial/</guid>
       <description>Our Self Driving Model Car uses a RaspberryPi and Arduino for power and control. These two powerful and functional devices must have smooth communication else our car will have control problems thereafter. In our previous car model we used a RaspberryPi only but now we have an Arduini UNO which will be used to control the wheels.
 Student1: What is the RaspberryPi and Arduino? The RaspberryPi is a single board, credit card sized computer that runs minimal software and can be used in very many areas.</description>
     </item>
     
     <item>
       <title>Accessing Google Drive From Terminal</title>
-      <link>https://www.githuka.com/posts/accessing-google-drive-from-terminal/</link>
+      <link>https://githuka.com/posts/accessing-google-drive-from-terminal/</link>
       <pubDate>Sat, 19 May 2018 21:25:31 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/accessing-google-drive-from-terminal/</guid>
+      <guid>https://githuka.com/posts/accessing-google-drive-from-terminal/</guid>
       <description>Google Drive is a good way to backup your data. In Windows this can be accomplished simply by having a Google account and drag-dropping stuff into it. From a CLI - Command Line Interface a different approach is used which I will explain in this article.
 My distro is Archlinux so this tutorial is based on the same.
 Tools  rclone gdrive  rclone rclone is written in Google&amp;rsquo;s Go Language and it a powerful tool that can be used to access your Google Drive neatly from the terminal.</description>
@@ -543,57 +543,57 @@ Tools  rclone gdrive  rclone rclone is written in Google&amp;rsquo;s Go Language
     
     <item>
       <title>Greetings From Voi</title>
-      <link>https://www.githuka.com/posts/greetings-from-voi/</link>
+      <link>https://githuka.com/posts/greetings-from-voi/</link>
       <pubDate>Mon, 02 Apr 2018 02:39:11 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/greetings-from-voi/</guid>
+      <guid>https://githuka.com/posts/greetings-from-voi/</guid>
       <description>I have been in Voi town for over a week now and I believe its wise to jot down a post about this relatively remote town along the Nairobi-Mombasa Highway. Am down here on assignment with AVIC Kenya at Coast Institute of Technology where we are conducting a training for various TVET teachers in a Mechatronic Engineering course which is being offered in Chinese by Chinese teachers. This training has been running for the last 3 months so am just here for the last 1 month or so as an interpreter for Chinese&amp;ndash;English and vice versa.</description>
     </item>
     
     <item>
       <title>External Operation [EXT] of a Mitsubishi D700 VFD to Control a 3phase Motor</title>
-      <link>https://www.githuka.com/posts/external-operation-of-a-3phase-motor-using-mitsubishi-d700-vfd/</link>
+      <link>https://githuka.com/posts/external-operation-of-a-3phase-motor-using-mitsubishi-d700-vfd/</link>
       <pubDate>Thu, 01 Mar 2018 12:33:40 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/external-operation-of-a-3phase-motor-using-mitsubishi-d700-vfd/</guid>
+      <guid>https://githuka.com/posts/external-operation-of-a-3phase-motor-using-mitsubishi-d700-vfd/</guid>
       <description>External Operation of a 3phase Motor Using Mitsubishi D700 Inverter The Mitsubishi D700 Inverter is a very handy variable frequency drive for the electrical engineer. This model, though discontinued has been used in a variety of connections for different types of loads. In today’s experiment, I want to show you how to control a small 3phase motor using the D700 to make the motor run in 3 different speeds, and change direction.</description>
     </item>
     
     <item>
       <title>My Encounter With The STC Microcontrollers</title>
-      <link>https://www.githuka.com/posts/stc-microcontrollers/</link>
+      <link>https://githuka.com/posts/stc-microcontrollers/</link>
       <pubDate>Fri, 26 Jan 2018 18:18:35 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/stc-microcontrollers/</guid>
+      <guid>https://githuka.com/posts/stc-microcontrollers/</guid>
       <description>The first time I held an STC microcontroller was today morning when we were preparing the lab ahead of the class experiment for tomorrow. I decided to assemble my own board from the components given. The boards were packed tightly in bulk so it was quite a task to set them up. The boards which I later came to learn were designed by one of the Chinese&amp;rsquo;s lecturers students back in China.</description>
     </item>
     
     <item>
       <title>Configuring Marantz Pro MPM 1000U in Linux</title>
-      <link>https://www.githuka.com/posts/configuring-marantz-pro-mpm-1000u-in-linux/</link>
+      <link>https://githuka.com/posts/configuring-marantz-pro-mpm-1000u-in-linux/</link>
       <pubDate>Tue, 12 Dec 2017 10:52:04 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/configuring-marantz-pro-mpm-1000u-in-linux/</guid>
+      <guid>https://githuka.com/posts/configuring-marantz-pro-mpm-1000u-in-linux/</guid>
       <description>The Marantz Pro MPM-1000U is a USB condenser mic for DAW recording or podcasting. It comes in as an entry level mic.It comes with a USB connection which was one of the feature that I wanted. This mic is designed to work on any PC with a descent USB interface and a software like Audacity.
 While thats good, I wanted to try out recording on termial and this is how far I have come in doing so.</description>
     </item>
     
     <item>
       <title>Nairobi Linux User Group December 02 2017 Meetup</title>
-      <link>https://www.githuka.com/posts/nailug-december-2nd-meetup/</link>
+      <link>https://githuka.com/posts/nailug-december-2nd-meetup/</link>
       <pubDate>Sat, 02 Dec 2017 22:27:08 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/nailug-december-2nd-meetup/</guid>
+      <guid>https://githuka.com/posts/nailug-december-2nd-meetup/</guid>
       <description>Today was the last meetup of Nailug - Nairobi Linux User Group. As usual for the past few months, the meetup was held at Ona who have continued to support us bu giving us a space to hold our meetups. Today&amp;rsquo;s talk was about HTTP/2 which was presented by Kenneth Gitere from Ona. The topic was - HTTP/2 to be or not to be.
 Nailug, also written as NaiLug is a not-for-profit community dedicated to GNU/Linux, Free Software, Open Source and related topics.</description>
     </item>
     
     <item>
       <title>Pytudes</title>
-      <link>https://www.githuka.com/posts/pytudes/</link>
+      <link>https://githuka.com/posts/pytudes/</link>
       <pubDate>Fri, 01 Dec 2017 14:13:54 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/pytudes/</guid>
+      <guid>https://githuka.com/posts/pytudes/</guid>
       <description>&amp;ldquo;An étude (a French word meaning study) is an instrumental musical composition, usually short, of considerable difficulty, and designed to provide practice material for perfecting a particular musical skill.&amp;rdquo; — Wikipedia
 This project contains pytudes—Python programs for perfecting programming skills.
 Some are in Jupyter (IPython) notebooks, some in .py files. You can view the files here, or clone the project, or run the notebooks online by clicking this button:</description>
@@ -601,10 +601,10 @@ Some are in Jupyter (IPython) notebooks, some in .py files. You can view the fil
     
     <item>
       <title>Running Ranger From Spacemacs</title>
-      <link>https://www.githuka.com/posts/ranger-spacemacs-file-manager/</link>
+      <link>https://githuka.com/posts/ranger-spacemacs-file-manager/</link>
       <pubDate>Thu, 30 Nov 2017 21:57:34 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/ranger-spacemacs-file-manager/</guid>
+      <guid>https://githuka.com/posts/ranger-spacemacs-file-manager/</guid>
       <description>Ranger, developed by Roman Zimbelman is an ncurses based powerful filemanager for UNIX-like systems. Its free relased under GNU GPL Licence. It can do what most GUI file managers can do with less effort. It was first released in 2010 the latest version is of 2017 February. And its written in Python.
 The coolest part is that its 260KB only, how about that :-)
 And yes I know that the photo above has no relation to Ranger, its the Nairobi National Park and I think it looks cool.</description>
@@ -612,20 +612,20 @@ And yes I know that the photo above has no relation to Ranger, its the Nairobi N
     
     <item>
       <title>Selectric Layer on Spacemacs</title>
-      <link>https://www.githuka.com/posts/selectric-layer-on-spacemacs/</link>
+      <link>https://githuka.com/posts/selectric-layer-on-spacemacs/</link>
       <pubDate>Thu, 16 Nov 2017 22:24:35 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/selectric-layer-on-spacemacs/</guid>
+      <guid>https://githuka.com/posts/selectric-layer-on-spacemacs/</guid>
       <description>The IBM Selectric typewriter a machine that was as a result of &amp;ldquo;Seven years of research&amp;rdquo; was one of the best machines ever sold back in 1961. The Selectric was so popular that it captured 75% of the american market. It was only replaced by the electronic one which IBM later made.
 The great sound of this machine can be relived in spacemacs through a cool layer that was developed by Sylvain Benner.</description>
     </item>
     
     <item>
       <title>Welcome to Spacemacs</title>
-      <link>https://www.githuka.com/posts/emacs/</link>
+      <link>https://githuka.com/posts/emacs/</link>
       <pubDate>Fri, 03 Nov 2017 20:32:05 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/emacs/</guid>
+      <guid>https://githuka.com/posts/emacs/</guid>
       <description>Ever since I went deep into Linux in 2015, I have heard of emacs being mentioned as the holy grail of Linux text editing. I must admit but it looked messy and had to grasp.
 Early this year I came accross Spacemacs and it looked interesting but just like emacs I gave it a glance and planned to give it more time.
 A month ago I saw my pal Raymond navigate his Linux box effortlessly using a similar software appearance quicly editing and opening files in what seemed like a spectactular fun.</description>
@@ -633,20 +633,20 @@ A month ago I saw my pal Raymond navigate his Linux box effortlessly using a sim
     
     <item>
       <title>Accepted - Udacity Self Driving Car Nanodegree</title>
-      <link>https://www.githuka.com/posts/accepted-udacity-sdc-nanodegree/</link>
+      <link>https://githuka.com/posts/accepted-udacity-sdc-nanodegree/</link>
       <pubDate>Wed, 25 Oct 2017 19:32:07 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/accepted-udacity-sdc-nanodegree/</guid>
+      <guid>https://githuka.com/posts/accepted-udacity-sdc-nanodegree/</guid>
       <description>Today is one of the best days of my life. When I saw the email from Udacity that I have bee accepted for the Udacity Self Driving Car Nanodegree Program, I was elated. This is an online program that teaches one how to develop the necessary software and skills that a self driving system uses.
 I learnt about the Nanodgree back in Dec of 2016 when I was starting to learn Python and this was the goal of that project.</description>
     </item>
     
     <item>
       <title>Serving Your Wordpress Blog on Caddy on Linode Server</title>
-      <link>https://www.githuka.com/posts/serving-your-wordpress-blog-on-caddy/</link>
+      <link>https://githuka.com/posts/serving-your-wordpress-blog-on-caddy/</link>
       <pubDate>Mon, 16 Oct 2017 09:16:15 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/serving-your-wordpress-blog-on-caddy/</guid>
+      <guid>https://githuka.com/posts/serving-your-wordpress-blog-on-caddy/</guid>
       <description>After fiddling around and some long hours setting up my server, I managed to install Wordpress on Caddy.For those who have not used Caddy before, you can read more about it on Caddyserver.
 Its awesome since it gives you a https (security) for your domain. Caddy is praised by industry experts for security defaults and unpararelleld usability.
 Take Note To make this tutorial easier to follow, I will first point out my biggest issues which you need to take care as you go forth:</description>
@@ -654,57 +654,57 @@ Take Note To make this tutorial easier to follow, I will first point out my bigg
     
     <item>
       <title>Nyeri Baptist School</title>
-      <link>https://www.githuka.com/posts/nyeri-baptist/</link>
+      <link>https://githuka.com/posts/nyeri-baptist/</link>
       <pubDate>Mon, 16 Oct 2017 09:09:24 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/nyeri-baptist/</guid>
+      <guid>https://githuka.com/posts/nyeri-baptist/</guid>
       <description>The sound of drifing wind and background noise of students discussing in low tones is the relative ambience that I observed for the short duration that I was in Nyeri Baptist School. I cannot forget to mention the fact that apart from the normal mobile network, the air seemed electrically clean. No numerous untamed, unmanaged wifi signals roaming in the air that we soak in daily in Nairobi. It was just the best condusive environment for knowledge.</description>
     </item>
     
     <item>
       <title>Data Collection Monday</title>
-      <link>https://www.githuka.com/posts/data-collection-monday/</link>
+      <link>https://githuka.com/posts/data-collection-monday/</link>
       <pubDate>Tue, 26 Sep 2017 10:34:56 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/data-collection-monday/</guid>
+      <guid>https://githuka.com/posts/data-collection-monday/</guid>
       <description>I go to BSF on Monday evenings to Westlands St Marks Church and the drive there with my friends provides a good chance to collect some data for my self driving car programme. My data collection device is still my mobile phone mounted on the dashboard. I have explained how to do this in my previous post.
 Yesterday&amp;rsquo;s run was like normal but over the last 3 weeks, my videos have been appearing with some darkness which is as a result from the mounting angle facing the road.</description>
     </item>
     
     <item>
       <title>Collecting Driving Data On Kenyan Roads</title>
-      <link>https://www.githuka.com/posts/collecting-driving-data-on-kenyan-roads/</link>
+      <link>https://githuka.com/posts/collecting-driving-data-on-kenyan-roads/</link>
       <pubDate>Fri, 22 Sep 2017 23:58:07 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/collecting-driving-data-on-kenyan-roads/</guid>
+      <guid>https://githuka.com/posts/collecting-driving-data-on-kenyan-roads/</guid>
       <description>Ever since I dipped my mind into the autonomous vehicles world, I have been noting carefully road transport in a whole new dimension. I now see data and need lots of it. Training a CNN needs alot of data and even when I was working on the Lane Detection Algo project, I used data that was provided by (Udacity)[udacity.com]. But now I deceided to put the same algo on local roads here in Kenya.</description>
     </item>
     
     <item>
       <title>This Week in Autonomous Vehicles Spetember 10th Edition</title>
-      <link>https://www.githuka.com/posts/this-week-in-autonomous-vehicles-spetember-10th-edition/</link>
+      <link>https://githuka.com/posts/this-week-in-autonomous-vehicles-spetember-10th-edition/</link>
       <pubDate>Mon, 11 Sep 2017 08:59:22 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/this-week-in-autonomous-vehicles-spetember-10th-edition/</guid>
+      <guid>https://githuka.com/posts/this-week-in-autonomous-vehicles-spetember-10th-edition/</guid>
       <description>This past week has had quite some significant developments in the autonomous car industry. The big companies are still leading the pack though some have decided to cut back in developments. Seizing this opportunity, small startups are rising by launching market ready self driving cars promising to make them ready by 2020.
 Top Headlines  Lyft and Drive.ai will be offering free rides in Self Driving cars in the Bay Area with Safety Drivers - David Silver Whats Driving The Connected Car?</description>
     </item>
     
     <item>
       <title>Speak Chinese Like A Native Project</title>
-      <link>https://www.githuka.com/posts/speak-chinese-like-a-native-project/</link>
+      <link>https://githuka.com/posts/speak-chinese-like-a-native-project/</link>
       <pubDate>Sat, 05 Aug 2017 11:32:04 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/speak-chinese-like-a-native-project/</guid>
+      <guid>https://githuka.com/posts/speak-chinese-like-a-native-project/</guid>
       <description>I stepped into my first Chinese class in May 2012 at Kenyatta University Confucius Institute and I have been using Chinese professionally as from September 2014 when I landed my first translation job at the Standard Gauge Railway. Speakig Chinese is natural for me but not the idioms which are a headache. Speaking like a Chinese native requires alot of time and preactise, something that many non natives dont have time.</description>
     </item>
     
     <item>
       <title>RC Self Driving Car Update</title>
-      <link>https://www.githuka.com/posts/rc-self-driving-car-update/</link>
+      <link>https://githuka.com/posts/rc-self-driving-car-update/</link>
       <pubDate>Thu, 03 Aug 2017 08:49:53 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/rc-self-driving-car-update/</guid>
+      <guid>https://githuka.com/posts/rc-self-driving-car-update/</guid>
       <description>Of late I have been busy making the car since my last update. If you do not undertsand what this project is aout, please check the last update and check out my medium page where I give regular updates. Its so easy to blog on medium.
 In summary the following have happened since April
  Learned alot about Self Driving Cars from Udacity Bricked a Raspberry Pi Model 3 Bought and destroyed an RC Car Coded alot in Python Eploded a LiPo battery  One of my main challenges with the RC Self Driving car was power.</description>
@@ -712,87 +712,87 @@ In summary the following have happened since April
     
     <item>
       <title>This Week In Autonomous Vehicles July 30th Edition</title>
-      <link>https://www.githuka.com/posts/this-week-in-autonomous-vehicles-july-30th-edition/</link>
+      <link>https://githuka.com/posts/this-week-in-autonomous-vehicles-july-30th-edition/</link>
       <pubDate>Mon, 31 Jul 2017 11:28:13 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/this-week-in-autonomous-vehicles-july-30th-edition/</guid>
+      <guid>https://githuka.com/posts/this-week-in-autonomous-vehicles-july-30th-edition/</guid>
       <description>This week in the autonomous vehicle industry has been quite busy one. For me I have been doing alot of hardware work to improve on my hand on skills. My RC SD car has gained some progress despite my busy schedule Now onto the news…
 Tesla Model 3 Launch. Need I say more? I love this car Standard Battery  Starting at $35,000 Range of 220 miles 0 to 60 mph acceleration in 5.</description>
     </item>
     
     <item>
       <title>Udacity Self Driving Car Nanodegree Term1 Project1 Finding Lane Lines</title>
-      <link>https://www.githuka.com/posts/udacity-self-driving-car-nanodegree-term1-project1-finding-lane-lines/</link>
+      <link>https://githuka.com/posts/udacity-self-driving-car-nanodegree-term1-project1-finding-lane-lines/</link>
       <pubDate>Tue, 04 Jul 2017 07:51:33 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/udacity-self-driving-car-nanodegree-term1-project1-finding-lane-lines/</guid>
+      <guid>https://githuka.com/posts/udacity-self-driving-car-nanodegree-term1-project1-finding-lane-lines/</guid>
       <description>The main objective of this project is to find lane lines in video using basic computer vision. The lines on the road show us where the lanes are and act as a constant reference for where to steer the vehicle. Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.In this project I have created a pipeline to detect lane lines in images and videos using Python and OpenCV.</description>
     </item>
     
     <item>
       <title>LifeLog 2017 Edition Day 180 Update</title>
-      <link>https://www.githuka.com/posts/lifelog-2017-edition-day-180-update/</link>
+      <link>https://githuka.com/posts/lifelog-2017-edition-day-180-update/</link>
       <pubDate>Fri, 30 Jun 2017 21:21:48 +0300</pubDate>
       
-      <guid>https://www.githuka.com/posts/lifelog-2017-edition-day-180-update/</guid>
+      <guid>https://githuka.com/posts/lifelog-2017-edition-day-180-update/</guid>
       <description>Today is Friday, the 3oth of June, 2017. 180 days since my last update and also 180 days since the year started. Its also equivalent to
  15,552,000 seconds or 259,200 minutes or 4320 hours or 25 weeks and 5 days since the year started. Simpy put upto today 49.32% of 2017 has gone. Thats alot to take in give the many digits.  On the other side, there are 184 days left in 2017.</description>
     </item>
     
     <item>
       <title>Setting Up A Linode VPS Virtual Private Server</title>
-      <link>https://www.githuka.com/posts/my-linode-vps/</link>
+      <link>https://githuka.com/posts/my-linode-vps/</link>
       <pubDate>Wed, 28 Jun 2017 13:56:37 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/my-linode-vps/</guid>
+      <guid>https://githuka.com/posts/my-linode-vps/</guid>
       <description>Introduction Finally after fiddling up with some settings, my Linode VPS is running perfectly. Before going deeper let me explain what is a VPS. A VPS is a Virtual Private Server that is esentially a computer in a dfferent location where you can install programs while having access to it via SSH or other protocols. A VPS (Virtual Private Server) is utilised by businesses looking for a secure method of hosting their websites.</description>
     </item>
     
     <item>
       <title>This Week In My Engineering Career</title>
-      <link>https://www.githuka.com/posts/twimec/</link>
+      <link>https://githuka.com/posts/twimec/</link>
       <pubDate>Sun, 14 May 2017 00:59:25 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/twimec/</guid>
+      <guid>https://githuka.com/posts/twimec/</guid>
       <description>▲ We use oscillators in most of our experiments, perfect tool for ciruit analysis.
 EEE 309 Analogue Electronics 2 Labwork This week&amp;rsquo;s labwork was about an introduction to Op-Amps. We worked with the UA741CN Chip Op-Amp. The experiment was good but I still think I need to get myself a chip and see how it really works.On a better note the Digital Electronics practical on &amp;ldquo;Digital Counter With 7 Segment Display&amp;rdquo; was a success.</description>
     </item>
     
     <item>
       <title>Self Driving Car Project - Part 1 Project Update</title>
-      <link>https://www.githuka.com/posts/self-driving-rc-car/</link>
+      <link>https://githuka.com/posts/self-driving-rc-car/</link>
       <pubDate>Thu, 04 May 2017 22:09:01 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/self-driving-rc-car/</guid>
+      <guid>https://githuka.com/posts/self-driving-rc-car/</guid>
       <description>▲ Current state of the car as of May 3rd 2017
 This week has been very busy for me since I started making my self driving car model out of an RC Car. Last year I got a Red Hammer H2 RC Car. This car is made in China on a Ratio of 1:14 and runs on 5x1.5V .The project is simple, make it drive itself and learn alot of stuff while at it.</description>
     </item>
     
     <item>
       <title>Growing Plants With Artificial Light 2</title>
-      <link>https://www.githuka.com/posts/growing-plants/</link>
+      <link>https://githuka.com/posts/growing-plants/</link>
       <pubDate>Sat, 01 Apr 2017 17:18:28 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/growing-plants/</guid>
+      <guid>https://githuka.com/posts/growing-plants/</guid>
       <description>Purpose AND Objectives The main propose of this experiment is to learn more about how plants can survive and grow to maturity without being exposed to sunlight. This experiment is a continuation of my earler Experiment - Growing With Light. This time on a bigger scale and with more accurate data and equipment.The following are some of the objectives for this project:
  To lean more about how plants convert light during photosynthesis To learn about different types of light which are used in plant germination &amp;amp; growth To learn about Automation and Data Mining To increase my programming skills in small embedded hardware.</description>
     </item>
     
     <item>
       <title>LifeLog 2017 Edition Day 90 Update</title>
-      <link>https://www.githuka.com/posts/lifelog/</link>
+      <link>https://githuka.com/posts/lifelog/</link>
       <pubDate>Fri, 31 Mar 2017 19:40:43 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/lifelog/</guid>
+      <guid>https://githuka.com/posts/lifelog/</guid>
       <description>Today is Friday, the 31st of March, 2017. There are 275 days, 6,604 hours and more that 400,000 minutes left for the year to come to an end. We are 90 days into 2018 and its already feels long enough. When the year comes to a close many will say that year went fast, and almost cannot recall most days of the year due to us having countless activies in a year.</description>
     </item>
     
     <item>
       <title>QTC March 2017</title>
-      <link>https://www.githuka.com/posts/qtc-march-2017/</link>
+      <link>https://githuka.com/posts/qtc-march-2017/</link>
       <pubDate>Tue, 21 Mar 2017 08:39:02 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/qtc-march-2017/</guid>
+      <guid>https://githuka.com/posts/qtc-march-2017/</guid>
       <description>SUBCRIPTIONS WERE DUE IN JANUARY:-
  FULL MEMBERS SHS.2,000 ASSOCIATES SHS.1,000 STUDENTS SHS.200  MINUTES OF THE SHACK MEETING HELD ON 11th February, 2017 Present:  Chairman/Secretary: E. Alleyne, 5Z4NU Treasurer: H. Patel, 5Z4HP Members: M. Beacham, 5Z4BX; D. Mutonga, 5Z4DJ; K. Mutu, 5Z4BV; Apologies: Bishop Bill Atwood, 5Z4BS; J. Nyadwe; J. Archer, 5Z4FV; D. Gardner, 5Z4DE; D. Angoya, 5Z4ALN; Kagotho, 5Z4OC;  The meeting opened at 10.15 am.
 Minutes of the last meeting  The Minutes of the meetings held on 3rd December, 2016, and 11th February, 2017, having been circulated were taken a read.</description>
@@ -800,68 +800,68 @@ Minutes of the last meeting  The Minutes of the meetings held on 3rd December, 2
     
     <item>
       <title>1st October Shack Meeting - Shack Vandalised &amp; Windows Smashed</title>
-      <link>https://www.githuka.com/posts/1st-october-shack-meeting-shack-vandalised/</link>
+      <link>https://githuka.com/posts/1st-october-shack-meeting-shack-vandalised/</link>
       <pubDate>Sat, 01 Oct 2016 19:01:20 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/1st-october-shack-meeting-shack-vandalised/</guid>
+      <guid>https://githuka.com/posts/1st-october-shack-meeting-shack-vandalised/</guid>
       <description>Today&amp;rsquo;s Shack meeting was best attended than another since I joined ARSK. This was mainly due to the recent developments at the shack. The home-less guy that we chased from living behind the shack wrecked havoc on the shack. He smashed the windows, destroyed the supports that hold the veranda&amp;rsquo;s roofing which eventually came crashing down. There were signs of attempted forced entry from the rear door but once again the bees deterred him.</description>
     </item>
     
     <item>
       <title>3rd September Shack Meeting</title>
-      <link>https://www.githuka.com/posts/3rd-september-shack-meeting/</link>
+      <link>https://githuka.com/posts/3rd-september-shack-meeting/</link>
       <pubDate>Sat, 03 Sep 2016 19:13:15 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/3rd-september-shack-meeting/</guid>
+      <guid>https://githuka.com/posts/3rd-september-shack-meeting/</guid>
       <description>Today&amp;rsquo;s Shack meeting was well attended. We had 4 members present including our Chairman, Mr Ted Alleyne. Other members present were Mr. Joseph Ngungu and Mr. Kagotho. We arrived to find that somebody had stolen the water meter and left the water flooding the entire place. I plugged the pipe with a stick and I hope it holds till its repaired. Also the guy who lives behind the shack has made the hole in the fence bigger since thats his passage, we took down his makeshift dwelling because he had littered the place with plastic bottles.</description>
     </item>
     
     <item>
       <title>Growing Plants With Artificial Light Experiment</title>
-      <link>https://www.githuka.com/posts/growing-plants-with-articial-light/</link>
+      <link>https://githuka.com/posts/growing-plants-with-articial-light/</link>
       <pubDate>Thu, 25 Aug 2016 08:32:22 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/growing-plants-with-articial-light/</guid>
+      <guid>https://githuka.com/posts/growing-plants-with-articial-light/</guid>
       <description>Introduction The intensity of light radiating from a point source that reaches a surface is inversely proportional to the square of the surface&amp;rsquo;s distance from the source - Inverse square law. This simply means that if an object is twice as far away it receives only a quarter of the light.
 This is the basis of this experiment. For a long time we have relied on the sun as the source of food, but with recent scientific studies, man has stared to grow plants indoors with the help of artificial light from bulbs.</description>
     </item>
     
     <item>
       <title>Youtube-dl</title>
-      <link>https://www.githuka.com/posts/youtube-downloader/</link>
+      <link>https://githuka.com/posts/youtube-downloader/</link>
       <pubDate>Mon, 18 Jul 2016 04:59:55 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/youtube-downloader/</guid>
+      <guid>https://githuka.com/posts/youtube-downloader/</guid>
       <description>Introduction Youtube-dl is a command-line program to download videos from Youtube and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. youtube-dl should work in your Unix box, in Windows or in Mac OS X. It is released to the public domain, which means you can modify it, redistribute it or use it however you like.
 Installation To install it right away for all UNIX users (Linux, OS X, etc.</description>
     </item>
     
     <item>
       <title>2nd July Shack Meeting Passed Novice Exam</title>
-      <link>https://www.githuka.com/posts/2nd-july-shack-meeting-passed-novice-exam/</link>
+      <link>https://githuka.com/posts/2nd-july-shack-meeting-passed-novice-exam/</link>
       <pubDate>Sat, 02 Jul 2016 21:22:17 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/2nd-july-shack-meeting-passed-novice-exam/</guid>
+      <guid>https://githuka.com/posts/2nd-july-shack-meeting-passed-novice-exam/</guid>
       <description>Gate and Shack Security The fence for the shack has a big hole which unknown persons keep breaking into the shack. There is along process for this to be repaired. These people have now started &amp;lsquo;dwelling&amp;rsquo; behind the building. We found a large stock of bottles behind the shack building. They have also broken the water pipe.
 Running Costs The site has proved too expensive to maintain and we are thinking of changing location.</description>
     </item>
     
     <item>
       <title>Connect To Eduroam On Archlinux</title>
-      <link>https://www.githuka.com/posts/connect-to-eduroam-on-archlinux/</link>
+      <link>https://githuka.com/posts/connect-to-eduroam-on-archlinux/</link>
       <pubDate>Thu, 16 Jun 2016 06:40:51 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/connect-to-eduroam-on-archlinux/</guid>
+      <guid>https://githuka.com/posts/connect-to-eduroam-on-archlinux/</guid>
       <description>Eduroam is a worldwide internet service for research that is used in universities globally. Eduroam uses a secure protocol when connecting to the users. Windows and other OSs have different configurations. On Archlinux start by running the following commands.
 Note: The following steps are for Connman (A Daemon for managing internet connections within embedded devices running the Linux operating system. Comes with a command-line client, plus Enlightenment, ncurses, GTK and Dmenu clients are available).</description>
     </item>
     
     <item>
       <title>The I Love Candy Pacman Mod</title>
-      <link>https://www.githuka.com/posts/the-i-love-candy-pacman-mod/</link>
+      <link>https://githuka.com/posts/the-i-love-candy-pacman-mod/</link>
       <pubDate>Tue, 14 Jun 2016 05:25:16 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/the-i-love-candy-pacman-mod/</guid>
+      <guid>https://githuka.com/posts/the-i-love-candy-pacman-mod/</guid>
       <description>Pacman is the official package manager for Archlinux. Sometimes its boring watching the Hashes which are used to show progress when Pacman is downloading/working. This kind of user interface has a new mod that shows a capital C eating small things during the progress.
 Modify the Pacman config file using your favorite editor.
 sudo nano /etc/pacman.conf
@@ -870,46 +870,46 @@ Go down to Misc Options and add the word ILoveCandy to the end of the list.</des
     
     <item>
       <title>Preparing For Novice Exam - How To Contact The ISS</title>
-      <link>https://www.githuka.com/posts/preparing-for-novice-exam/</link>
+      <link>https://githuka.com/posts/preparing-for-novice-exam/</link>
       <pubDate>Sat, 07 May 2016 19:36:43 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/preparing-for-novice-exam/</guid>
+      <guid>https://githuka.com/posts/preparing-for-novice-exam/</guid>
       <description>Today&amp;rsquo;s Shack meeting went well and was well attended. The hole on the fence is even bigger.The station is overgrown with grass due to the heavy rains that have been pounding Nairobi lately. As usual Ted kicked off the meeting and went through the meeting. At some point we were discussing how one can call the ISS (International Space Station). I later did some research and this is what I have learn&amp;rsquo;t.</description>
     </item>
     
     <item>
       <title>9th April Shack Meeting - I am a Registered Member</title>
-      <link>https://www.githuka.com/posts/9th-april-shack-meeting-i-am-a-registered-member/</link>
+      <link>https://githuka.com/posts/9th-april-shack-meeting-i-am-a-registered-member/</link>
       <pubDate>Sat, 09 Apr 2016 19:25:18 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/9th-april-shack-meeting-i-am-a-registered-member/</guid>
+      <guid>https://githuka.com/posts/9th-april-shack-meeting-i-am-a-registered-member/</guid>
       <description>Today was my first time to attend a shack meeting and generally it was very informative. The meeting was at the 5Z4RS Station Beacon in Woodley Estate,Nairobi. This location is referred to as the Shack. On my way I was wondering who and what type of people I would find. The meeting was scheduled to start at 10.00AM. On arrival I found Mr.Ted Alleyne together with another gentle man doing some preparations.</description>
     </item>
     
     <item>
       <title>Armature Radio In Kenya</title>
-      <link>https://www.githuka.com/posts/ham-radio-in-kenya/</link>
+      <link>https://githuka.com/posts/ham-radio-in-kenya/</link>
       <pubDate>Mon, 07 Mar 2016 07:37:56 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/ham-radio-in-kenya/</guid>
+      <guid>https://githuka.com/posts/ham-radio-in-kenya/</guid>
       <description>Introduction Armature Radio (Ham Radio) is a hobby for enthusiasts which is a non commercial radio station with 4 receivers, amplifier and additional equipment for communication with other operators on a specific frequency. In Kenya ham radio is organized by Radio Society of Kenya located in Nairobi where they have a headquarters. Although Amateur Radio operators get involved for many reasons, they all have in common a basic knowledge of radio technology and operating principles, and pass an examination for the FCC license to operate on radio frequencies known as the &amp;ldquo;Amateur Bands.</description>
     </item>
     
     <item>
       <title>Hiking At Ngong Hills With Ruaraka Baptist Church Teens</title>
-      <link>https://www.githuka.com/posts/hiking-at-ngong-hills/</link>
+      <link>https://githuka.com/posts/hiking-at-ngong-hills/</link>
       <pubDate>Tue, 26 Jan 2016 08:22:59 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/hiking-at-ngong-hills/</guid>
+      <guid>https://githuka.com/posts/hiking-at-ngong-hills/</guid>
       <description>Located SW of Nairobi is Kenya&amp;rsquo;s largest Wind Farm, Ngong Hills. The word &amp;ldquo;Ngong&amp;quot;as I was told by the locals is an Anglicization of a Maasai phrase &amp;ldquo;enkong&amp;rsquo;u emuny&amp;rdquo; meaning rhinoceros spring, and this name derives from a spring located near Ngong Town. Overlooking the Great Rift Valey on the Western Slopes, the Nong Hills rise to 2,460 meters above sea level.During the years of British colonial rule, the area around the Ngong Hills was a major settler farming region, and many traditional colonial houses are still seen in the area.</description>
     </item>
     
     <item>
       <title>Install Arch LinuxARM On RaspberryPi</title>
-      <link>https://www.githuka.com/posts/install-arch-linuxarm-on-raspberrypi/</link>
+      <link>https://githuka.com/posts/install-arch-linuxarm-on-raspberrypi/</link>
       <pubDate>Mon, 21 Dec 2015 05:45:15 +0000</pubDate>
       
-      <guid>https://www.githuka.com/posts/install-arch-linuxarm-on-raspberrypi/</guid>
+      <guid>https://githuka.com/posts/install-arch-linuxarm-on-raspberrypi/</guid>
       <description>The Raspberry Pi is an ARM v6 architecture mini computer that gained alot of fame when it was released in 2012.
 Formating the SD Card Start fdisk to partition the SD Card. Then type the following:
 o - Delete any partitions on the SD Card. p - List all partitions, at this point there should be none left. n then p for primary, 1 for the first partition, press ENTER to accept the default first sector, then type +100M for the last sector.</description>
