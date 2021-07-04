@@ -1,6 +1,6 @@
 baseURL = "https://www.githuka.com"
 title = "Wilfred's Online Notebook"
-themesDir = "/home/wilfred/site-githuka.com/githuka.com/themes/"
+themesDir = "/home/wilfred/notebook/site-githuka.com/githuka.com/themes/"
 theme = "m10c"
 paginate = 15
 
