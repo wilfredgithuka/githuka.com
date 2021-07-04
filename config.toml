@@ -1,13 +1,13 @@
 baseURL = "https://githuka.com"
-title = "Wilfred's Online Notebook"
+title = "The Githuka's Notebook"
 themesDir = "/home/wilfred/notebook/site-githuka.com/githuka.com/themes/"
 theme = "m10c"
 paginate = 15
 
 [params]
   author = "Wilfred Githuka"
-  description = "Lets Write"
-  avatar = "https://www.githuka.com/images/me.png"
+  description = "Never Stop Writing - Teach The World"
+  avatar = "https://avic-storage.ap-south-1.linodeobjects.com/7964520.png"
   [[params.social]]
     name = "github"
     url = "https://github.com/wilfredgithuka"
