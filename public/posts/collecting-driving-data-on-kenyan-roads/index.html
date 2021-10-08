@@ -3,7 +3,7 @@
   <head>
     <title>Collecting Driving Data On Kenyan Roads // The Githuka&#39;s Notebook</title>
     <meta charset="utf-8" />
-    <meta name="generator" content="Hugo 0.83.1" />
+    <meta name="generator" content="Hugo 0.87.0" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Wilfred Githuka" />
     <meta name="description" content="" />
@@ -18,8 +18,8 @@
 <meta property="og:description" content="Ever since I dipped my mind into the autonomous vehicles world, I have been noting carefully road transport in a whole new dimension. I now see data and need lots of it. Training a CNN needs alot of data and even when I was working on the Lane Detection Algo project, I used data that was provided by (Udacity)[udacity.com]. But now I deceided to put the same algo on local roads here in Kenya." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://githuka.com/posts/collecting-driving-data-on-kenyan-roads/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2017-09-22T23:58:07&#43;03:00" />
-<meta property="article:modified_time" content="2017-09-22T23:58:07&#43;03:00" />
+<meta property="article:published_time" content="2017-09-22T23:58:07+03:00" />
+<meta property="article:modified_time" content="2017-09-22T23:58:07+03:00" />
 
 
 
@@ -92,19 +92,19 @@ Here is my rig - The wilrIG</p>
 <li>Fire up FFmpeg and run these commands to cut the parts of the video you want, reduce resolution of video down to 640:360 and extract images from video</li>
 <li>Scale down the resolution</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -vf scale<span style="color:#f92672">=</span>640:480 outputvideo.mp4
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -vf scale<span style="color:#f92672">=</span>640:480 outputvideo.mp4
 </code></pre></div><ul>
 <li>Get the wanted parts of the video</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -ss 00:04:24 -to 00:06:40 -c copy outputvideo.mp4
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -ss 00:04:24 -to 00:06:40 -c copy outputvideo.mp4
 </code></pre></div><ul>
 <li>Extract Images(s) from video</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -ss 00:00:13.000 -vframes <span style="color:#ae81ff">1</span> ImageOutput.jpg
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -ss 00:00:13.000 -vframes <span style="color:#ae81ff">1</span> ImageOutput.jpg
 </code></pre></div><ul>
 <li>Extract Image from video with specific time/intervals</li>
 </ul>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -vf fps<span style="color:#f92672">=</span>1/15 ImageOutput.jpg -hide_banner
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ffmpeg -i inputvideo.mp4 -vf fps<span style="color:#f92672">=</span>1/15 ImageOutput.jpg -hide_banner
 </code></pre></div><ul>
 <li>The video you have and images are ready for testing. Create appropriate folders to kep your work neat. Am working on a bash script to simply all this, so stay tuned.</li>
 </ul>

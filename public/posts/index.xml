@@ -5,7 +5,135 @@
     <link>https://githuka.com/posts/</link>
     <description>Recent content in Posts on The Githuka&#39;s Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Apr 2021 20:19:56 +0300</lastBuildDate><atom:link href="https://githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Aug 2021 19:36:51 +0300</lastBuildDate><atom:link href="https://githuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carputer GUI &amp; Cockpit</title>
+      <link>https://githuka.com/posts/carputer_update/</link>
+      <pubDate>Sat, 28 Aug 2021 19:36:51 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/carputer_update/</guid>
+      <description>Today I made some progress in making the Carputer more efficient and easy to work with. After solving some prevalent power issues, I finally got it running again. The power switch is still done by briefly shorting two wires, which is not a safe way to start a computer. The battery is still intact. Currently I power it via my desktop power supply mimicking a car battery. You can read about this connnection in this earlier post.</description>
+    </item>
+    
+    <item>
+      <title>Day 5/100 Cycling: 17km Kikuyu - Mahinga - Kikuyu Loop</title>
+      <link>https://githuka.com/posts/100-day5/</link>
+      <pubDate>Fri, 27 Aug 2021 21:57:00 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/100-day5/</guid>
+      <description>Distance: 17.74km Time: 01:32:14 Average Speed:11.55km/h  Today afternoon I rode uphill towards Limuru town. I knew that this would be uphill but the gradient was quite smooth. The highway is also under-construction but the pavement on this road is concrete.
+Despite the highway being quite wide, there was some parts where I had close encounters with traffic. There are no lane lines and diversions are present.
+Safety is highly encouraged for anyone wishing to cycle on this highway.</description>
+    </item>
+    
+    <item>
+      <title>Personalizing Vehicle Service</title>
+      <link>https://githuka.com/posts/service/</link>
+      <pubDate>Fri, 27 Aug 2021 10:33:54 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/service/</guid>
+      <description>Its about time my car went to the regular service. Every time I gaze at the digital odometer I see its aproaching the 150,000km mark which is when am supposed to take it for service.
+However, this time round, things shall be different. I will do the service myself. Before it has always been done by my mechanic but this time round, I will meticuilosly change the oil, air filter and oil filter.</description>
+    </item>
+    
+    <item>
+      <title>Day 4/100 Cycling: 27km Western Bypass Kikuyu-Ndenderu-Kikuyu Loop</title>
+      <link>https://githuka.com/posts/100-day4/</link>
+      <pubDate>Thu, 26 Aug 2021 21:56:55 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/100-day4/</guid>
+      <description>Distance: 26.56km Time: 02:13:08 Average Speed:11.97km/h  Todays ride was on the Western Bypass which starts at Kikuyu and ends at the Ndenderu Junction. The highway is still under construction and therefore in some sections the dust can be too much on the eyes. This road is very wide but just as other bypasses, cycle lanes are unprotected and unmarked. Various paved sections are closed off to vehicles which is a cyclist paradise.</description>
+    </item>
+    
+    <item>
+      <title>GNP - Githuka Noteonomy Project - Index</title>
+      <link>https://githuka.com/posts/noteonomy/</link>
+      <pubDate>Thu, 26 Aug 2021 13:46:48 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/noteonomy/</guid>
+      <description>Introduction A self-driving car, aka autonomous vehicle, connected and autonomous vehicle (CAV), full self-driving car or driverless car, or robo-car or robotic car, is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
+Manufacturers have been announcing the arrival of autonomous vehicles since March 2017 with leading companies predicting that 2020 shall be the golden year for autonomous vehicles. Much of this was projections but not actual deliverables due to challenges like legal provisions which would hinder this development.</description>
+    </item>
+    
+    <item>
+      <title>Day 3/100 Cycling: [No Cycling Today]</title>
+      <link>https://githuka.com/posts/100-day3/</link>
+      <pubDate>Wed, 25 Aug 2021 20:56:50 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/100-day3/</guid>
+      <description>Today I did not hit the road :-(</description>
+    </item>
+    
+    <item>
+      <title>ECU - Engine Control Unit - What Lies Inside The This Device?</title>
+      <link>https://githuka.com/posts/ecu/</link>
+      <pubDate>Wed, 25 Aug 2021 09:52:15 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/ecu/</guid>
+      <description>It is perhaps my least understood, least documented part of my car. I have not tampered with it and I think its time I poked in to see what this little yet powerful computer can do.
+Automotive Grade Linux AGL is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car.</description>
+    </item>
+    
+    <item>
+      <title>Day 2/100 Cycling: 24km Kikuyu-Kamangu-Ondiri Loop</title>
+      <link>https://githuka.com/posts/100-day2/</link>
+      <pubDate>Wed, 25 Aug 2021 09:04:52 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/100-day2/</guid>
+      <description>Date/Time: 24th August 2021 16:34 Distance: 24.83km Time: 02:23:52 Average Speed: 10.36km/h  This ride was initially supposed to take me to Mai Mahiu junction in Ndeiya but I cut it short due to time constraints. The loop starts in Kikuyu on the Southern Bypass until the Dagoretti Road Interchange where I took Dagoretti Road all the way to Kamangu Area. Kamangu area adjacent to Maasai plain is quite scenic with undulating hills and valleys.</description>
+    </item>
+    
+    <item>
+      <title>Day1/100 Cycling: 21km Kikuyu to Ngong Interchange and back</title>
+      <link>https://githuka.com/posts/100-day1/</link>
+      <pubDate>Tue, 24 Aug 2021 13:36:19 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/100-day1/</guid>
+      <description> Distance: 21.05Km Time: 01:33:41 Average Speed: 13.49km/h  </description>
+    </item>
+    
+    <item>
+      <title>The 100 Days of Cycling</title>
+      <link>https://githuka.com/posts/100/</link>
+      <pubDate>Mon, 23 Aug 2021 20:24:34 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/100/</guid>
+      <description>This is a project that will see me be on the road for 100 days. With a cycling of 20km I hope to cover at least 2000km.
+Here I go&amp;hellip;
+My Bike Diamond Back, bought in 2016, still working well and in good shape.
+&amp;ndash;Why this interchange is called Mr. Teams just amazes me :-)
+ Day 1 - Kikuyu to Ngong Interchange and back Day 2 - Kikuyu - Dagoretti Rd - Kikuyu Day 3 - No Cycling Day 4 - Day 5 -  </description>
+    </item>
+    
+    <item>
+      <title>Expresif ESP8266 Wifi Module</title>
+      <link>https://githuka.com/posts/esp8266/</link>
+      <pubDate>Tue, 13 Jul 2021 15:58:07 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/esp8266/</guid>
+      <description>The ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. The ESP8266 is capable of either hosting an application or offloading all Wi-Fi networking functions from another application processor. Each ESP8266 module comes pre-programmed with an AT command set firmware, meaning, you can simply hook this up to your Arduino device and get about as much WiFi-ability as a WiFi Shield offers (and that’s just out of the box)!</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision &amp; Deep Learning</title>
+      <link>https://githuka.com/posts/computer-vision/</link>
+      <pubDate>Sat, 10 Jul 2021 22:57:54 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>150W Max DC-DC Boost Converter</title>
+      <link>https://githuka.com/posts/boost_power/</link>
+      <pubDate>Fri, 09 Jul 2021 11:39:26 +0300</pubDate>
+      
+      <guid>https://githuka.com/posts/boost_power/</guid>
+      <description>One of the main challenges when working with in-car devices is a consistent power source for most electronics. The Carputer&amp;rsquo;s power is 19V drawing 3.4A which totals at 64.6W.
+I got this nifty little 150W DC-DC Boost converter which takes an input of 12V and converts it to 19V for the Carputer&amp;rsquo;s input. The operation is quiet without any hum.
+In simple terms a DC-to-DC power converter that steps up voltage (while stepping down current) from its input (supply) to its output (load).</description>
+    </item>
+    
     <item>
       <title>Building A Linux Carputer - Power Sytem</title>
       <link>https://githuka.com/posts/laptop_power/</link>
@@ -116,16 +244,6 @@ It takes quite alot of muscle to run and because this is something that my musle
       <guid>https://githuka.com/posts/clock/</guid>
       <description>This is the final set of components that will make up the complete computer clock. This last section will add 3 AND gates and an OR gate together with 2 ineverters and a HALT signal to halt the clock when needed to.
 Components  74LS04 Hex Inverters 74LS08 AND Gates 74LS32 OR Gates  Connection The main objective behind this final step in building our clock is to combine the previous: Astable pulse, Manual Pulse and Select pulse into one unified system.</description>
-    </item>
-    
-    <item>
-      <title>The Githuka Noteonomy Project - Index</title>
-      <link>https://githuka.com/posts/noteonomy/</link>
-      <pubDate>Mon, 07 Dec 2020 13:46:48 +0300</pubDate>
-      
-      <guid>https://githuka.com/posts/noteonomy/</guid>
-      <description>Introduction A self-driving car, aka anautonomous vehicle, connected and autonomous vehicle (CAV), full self-driving car or driverless car, or robo-car or robotic car, is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
-Manufactusers hav been announcing the arrival of autonomous vehicles since March 2017 with leading companies prediciting that 2020 shall be the golden year for autonomous vehicles. Much of this was projections but not actual deliverables due to challenges like legal provisions which would hinder this develpment.</description>
     </item>
     
     <item>
